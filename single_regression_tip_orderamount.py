@@ -40,3 +40,17 @@ pl.show()
 print("conf_ints are:\n" + str(lm.conf_int())+ "\n") #Does not include 0
 print("R^2 is:\n" + str(lm.rsquared) + "\n")   #R^2 = 0.1321
 print("pvals are: \n" + str(lm.pvalues))
+
+'''
+At a 95% confidence level: 
+Confidence interval is Tip: 1.37 -- 1.82
+Rsquared: 0.13
+P-Value(Tips): 6.35e-42
+Model: Y = 16.43 + 1.59X
+Y = Order Amount
+X = Tip Amount
+
+There is a small, yet statistically significant, correlation between order amounts and tip amounts. 
+This model falls apart quickly as tips increase past $10 because people usually don't tip in the double digits. 
+There is also a large margin of error with the model, as the R^2 value is relatively low at 0.13.
+'''
