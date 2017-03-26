@@ -4,7 +4,7 @@ Created on Feb 3, 2017
 @author: angelddaz
 tip_distance
 '''
-import pandas as pd
+import pandas as pd 
 import matplotlib.pyplot as pl
 import statsmodels.formula.api as sm
 from statsmodels.api import add_constant
