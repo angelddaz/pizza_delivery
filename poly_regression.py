@@ -31,4 +31,4 @@ poly_3 = smf.ols(formula='Tip ~ 1 + OrderAmount + I(OrderAmount ** 2.0) + I(Orde
 plt.plot(x.OrderAmount, poly_3.predict(x), 'r-', alpha=0.95, label='Poly n=3 $R^2$=%.2f' % poly_3.rsquared)
 
 plt.legend()
-plt.show()
+plt.show() 
