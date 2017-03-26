@@ -1,0 +1,1302 @@
+Key,Date,mmdd,DayOfTheWeek,Area,Distance,Timestamp,Tip,OrderAmount,TipPercent,Housing,GenderOfTipper,Cash/Credit_Tip,Cash/Credit_Order,PersonWhoDelivered,Area(text),Latitude,Longitude,month
+1,42196,711,Saturday,6,2.2,0.736111111,5.06,19.94,25.3761284,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+2,42293,1016,Friday,9,1,0.736111111,4.17,20.83,20.0192031,House,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+3,42232,816,Sunday,2,3,0.734722222,2,15.27,13.0975769,Apartment,Male,Cash,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+4,42265,918,Friday,6,1.8,0.734722222,3,27.63,10.8577633,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+5,42204,719,Sunday,6,1.3,0.734027778,3.5,32.13,10.8932462,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+6,42244,828,Friday,3,3.1,0.734027778,0,37.85,0,Apartment,Male,-,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+7,42245,829,Saturday,7,3.2,0.734027778,5,28.04,17.831669,House,Male,Cash,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+8,42274,927,Sunday,2,2.8,0.734027778,2,20,10,House,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+9,42211,726,Sunday,1,2.3,0.733333333,1.73,15.27,11.3294041,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Jul
+10,42231,815,Saturday,3,2.5,0.733333333,1.82,17.18,10.5937136,Apartment,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+11,42254,907,Monday,8,7.8,0.733333333,4,27.35,14.6252285,House,Male,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+12,42231,815,Saturday,3,2,0.732638889,1.5,17,8.8235294,Apartment,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+13,42246,830,Sunday,3,2.7,0.732638889,-0.05,18.9,-0.2645503,Apartment,Male,-,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+14,42252,905,Saturday,1,2.5,0.732638889,2,15.18,13.1752306,House,Male,Cash,Credit,Angel,North End,43.633105,-116.208304,Sep
+15,42253,906,Sunday,5,0.8,0.732638889,3,21.43,13.9990667,Apartment,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+16,42261,914,Monday,1,3.4,0.732638889,3,24.46,12.2649223,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+17,42302,1025,Sunday,4,2.6,0.732638889,3,23.14,12.9645635,Apartment,Male,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+18,42309,1101,Sunday,5,1.8,0.732638889,4,25.33,15.7915515,House,Male,Cash,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Nov
+19,42236,820,Thursday,1,2.3,0.73125,5,35.17,14.2166619,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+20,42274,927,Sunday,1,2.4,0.73125,5,20.12,24.8508946,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+21,42300,1023,Friday,3,2,0.73125,3,22.08,13.5869565,Business,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+22,42303,1026,Monday,9,0.9,0.73125,5,32.64,15.3186275,Apartment,Male,Cash,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+23,42197,712,Sunday,6,1,0.730555556,6,29.9,20.0668896,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+24,42238,822,Saturday,2,1.7,0.730555556,0,22.08,0,Apartment,Male,-,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+25,42240,824,Monday,6,0.2,0.730555556,3,15.71,19.0961171,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+26,42253,906,Sunday,5,1.1,0.730555556,2,24.55,8.1466395,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+27,42254,907,Monday,1,3,0.730555556,3,12.51,23.9808153,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+28,42296,1019,Monday,5,1.5,0.730555556,0,27.98,0,Apartment,Female,-,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+29,42233,817,Monday,6,1,0.729861111,4,20.22,19.7823937,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+30,42251,904,Friday,8,8.1,0.729861111,6,18.9,31.7460317,House,Male,Credit,Credit,Angel,Hidden Springs,43.723879,-116.255046,Sep
+31,42275,928,Monday,3,2.7,0.729861111,0.21,21.79,0.9637448,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+32,42218,802,Sunday,3,1.8,0.729166667,2,23.66,8.4530854,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+33,42273,926,Saturday,3,3,0.729166667,5,33.7,14.8367953,Apartment,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Sep
+34,42301,1024,Saturday,6,2.2,0.729166667,6.49,43.61,14.8819078,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+35,42203,718,Saturday,3,3.4,0.727777778,2.92,22.08,13.2246377,House,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Jul
+36,42275,928,Monday,3,2.3,0.727777778,5,27.88,17.9340029,House,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Sep
+37,42301,1024,Saturday,8,8.4,0.727777778,7,40.44,17.3095945,House,Female,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Oct
+38,42245,829,Saturday,2,1.7,0.727083333,6.54,20.46,31.9648094,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+39,42246,830,Sunday,6,1.2,0.727083333,6,24.16,24.8344371,Apartment,Female,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+40,42224,808,Saturday,3,2.7,0.726388889,4,24.59,16.2667751,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+41,42239,823,Sunday,9,0.4,0.726388889,3.69,26.31,14.0250855,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+42,42267,920,Sunday,6,1.3,0.726388889,5,23.13,21.6169477,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+43,42286,1009,Friday,5,1.2,0.726388889,3,28.12,10.6685633,House,Male,Cash,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+44,42289,1012,Monday,6,0.8,0.726388889,0,14.65,0,Apartment,Male,-,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+45,42209,724,Friday,3,2.7,0.725694444,2.22,16.78,13.2300358,House,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Jul
+46,42233,817,Monday,6,0.9,0.725694444,4,21.76,18.3823529,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+47,42238,822,Saturday,4,1.7,0.725694444,6.83,33.17,20.5908954,House,Female,Cash,Cash,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+48,42282,1005,Monday,2,1.2,0.725694444,5,32.67,15.3045608,House,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+49,42293,1016,Friday,9,0.3,0.725694444,10,61.61,16.2311313,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+50,42211,726,Sunday,5,1,0.725,2.56,15.44,16.5803109,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+51,42213,728,Tuesday,7,3.1,0.725,4,23.65,16.9133192,House,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Jul
+52,42218,802,Sunday,9,0.6,0.725,3,21.55,13.9211137,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+53,42266,919,Saturday,6,1.9,0.725,5,40.05,12.4843945,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+54,42274,927,Sunday,1,1.8,0.725,3,21,14.2857143,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Sep
+55,42282,1005,Monday,1,2.9,0.725,4,36.9,10.8401084,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+56,42293,1016,Friday,9,0.6,0.724305556,2,18.18,11.0011001,House,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+57,42244,828,Friday,5,1.4,0.723611111,3.73,15.27,24.426981,House,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+58,42260,913,Sunday,8,7.7,0.723611111,6.56,28.44,23.0661041,House,Female,Cash,Cash,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+59,42288,1011,Sunday,8,8.2,0.722916667,6,21.8,27.5229358,House,Male,Cash,Credit,Angel,Hidden Springs,43.723879,-116.255046,Oct
+60,42247,831,Monday,2,2.3,0.722222222,3.14,23.86,13.1601006,House,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+61,42294,1017,Saturday,1,3.5,0.722222222,1.46,12.54,11.6427432,Business,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Oct
+62,42295,1018,Sunday,1,3.7,0.722222222,5,24.01,20.8246564,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+63,42204,719,Sunday,6,2,0.721527778,2,23.14,8.6430424,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+64,42247,831,Monday,5,0.9,0.721527778,0,28.84,0,House,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+65,42253,906,Sunday,6,1.8,0.721527778,3,27.35,10.9689214,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+66,42307,1030,Friday,4,3,0.721527778,4.94,25.06,19.7126895,House,Male,Cash,Cash,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+67,42281,1004,Sunday,10,3.7,0.720833333,3.26,38.74,8.4150749,House,Male,Cash,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+68,42231,815,Saturday,3,2.4,0.720138889,2,62.33,3.2087277,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+69,42236,820,Thursday,9,0.7,0.720138889,3,25.98,11.5473441,Apartment,Male,Cash,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+70,42252,905,Saturday,9,0.5,0.720138889,7,43,16.2790698,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+71,42274,927,Sunday,2,2.5,0.720138889,4,21,19.047619,Apartment,Male,Cash,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+72,42295,1018,Sunday,7,2.6,0.720138889,5,18.9,26.4550265,Apartment,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+73,42239,823,Sunday,4,1.9,0.719444444,1.93,31.07,6.2117799,House,Male,Cash,Cash,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+74,42268,921,Monday,6,2.6,0.719444444,3,14.65,20.4778157,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+75,42287,1010,Saturday,3,2.2,0.71875,1.56,28.44,5.4852321,Business,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+76,42225,809,Sunday,6,0.9,0.718055556,3,11.86,25.2951096,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+77,42258,911,Friday,1,3.1,0.718055556,10,35.19,28.417164,Apartment,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+78,42272,925,Friday,7,2.7,0.718055556,6.1,18.9,32.2751323,Apartment,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+79,42238,822,Saturday,4,3,0.716666667,1.5,10.26,14.619883,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+80,42309,1101,Sunday,1,3.5,0.715972222,4,26.6,15.037594,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Nov
+81,42260,913,Sunday,6,1.2,0.715277778,1,11.86,8.4317032,Apartment,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+82,42227,811,Tuesday,3,2.1,0.714583333,2,16.77,11.9260584,Apartment,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+83,42274,927,Sunday,7,2.6,0.714583333,1,14.65,6.8259386,House,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+84,42274,927,Sunday,3,3.1,0.714583333,4,12.87,31.0800311,House,Female,Cash,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+85,42287,1010,Saturday,8,8.1,0.714583333,4,27.37,14.6145415,House,Female,Cash,Credit,Angel,Hidden Springs,43.723879,-116.255046,Oct
+86,42294,1017,Saturday,1,3.1,0.714583333,4,21.36,18.7265918,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+87,42238,822,Saturday,9,0.4,0.713888889,2,38.48,5.1975052,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+88,42245,829,Saturday,1,2.3,0.713194444,3,14.65,20.4778157,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+89,42302,1025,Sunday,8,7.4,0.713194444,8,17.84,44.8430493,House,Female,Cash,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Oct
+90,42228,812,Wednesday,4,4.8,0.7125,5,30.97,16.1446561,House,Female,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+91,42288,1011,Sunday,1,2.1,0.7125,3.58,28.42,12.5967628,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+92,42252,905,Saturday,2,3.1,0.711805556,1,14.65,6.8259386,Hotel,Male,Cash,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+93,42308,1031,Saturday,10,5,0.711111111,4.6,18.4,25,House,Female,Cash,Cash,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+94,42246,830,Sunday,5,1.1,0.710416667,3.73,12.27,30.399348,House,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+95,42209,724,Friday,6,1.5,0.709722222,5.02,25.98,19.3225558,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+96,42228,812,Wednesday,9,0.0882576,0.709027778,10,17.3,57.8034682,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+97,42218,802,Sunday,6,0.8,0.708333333,1.28,15.72,8.1424936,Apartment,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+98,42225,809,Sunday,5,1.5,0.708333333,4,37.92,10.5485232,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+99,42233,817,Monday,1,2,0.708333333,3,14.65,20.4778157,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+100,42288,1011,Sunday,5,1.3,0.708333333,2.29,15.71,14.5767027,House,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+101,42295,1018,Sunday,3,2.4,0.708333333,0,15.71,0,Business,Male,-,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+102,42302,1025,Sunday,3,2.7,0.708333333,2.1,18.9,11.1111111,Hotel,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+103,42233,817,Monday,5,1.5,0.707638889,2,14.49,13.8026225,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+104,42253,906,Sunday,8,6.4,0.707638889,4.17,20.83,20.0192031,House,Male,Cash,Cash,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+105,42231,815,Saturday,5,0.9,0.706944444,2.25,17.75,12.6760563,House,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+106,42232,816,Sunday,7,2.9,0.706944444,3,11.48,26.1324042,House,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+107,42267,920,Sunday,2,2.2,0.70625,11.56,28.44,40.6469761,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+108,42288,1011,Sunday,8,8.1,0.70625,4.62,45.38,10.1806963,House,Female,Cash,Cash,Sammie,Hidden Springs,43.723879,-116.255046,Oct
+109,42236,820,Thursday,3,3.1,0.705555556,3,20.17,14.8735746,Business,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+110,42217,801,Saturday,6,1.7,0.704861111,3,3.93,76.3358779,House,Female,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+111,42229,813,Thursday,5,1.1,0.704861111,4.69,24.31,19.2924722,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+112,42238,822,Saturday,3,2.3,0.704861111,4.98,39.02,12.7626858,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+113,42235,819,Wednesday,6,2.2,0.704166667,2,15.18,13.1752306,House,Male,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+114,42252,905,Saturday,6,1.3,0.703472222,5,25.66,19.4855807,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+115,42246,830,Sunday,3,3.1,0.702777778,1.99,14.01,14.2041399,Apartment,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+116,42238,822,Saturday,2,2.6,0.702083333,3,17.42,17.2215844,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+117,42267,920,Sunday,10,3.8,0.702083333,2,15.44,12.9533679,Apartment,Male,Cash,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+118,42309,1101,Sunday,2,1.7,0.702083333,1.17,8.83,13.2502831,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Nov
+119,42260,913,Sunday,6,1,0.700694444,4.59,30.41,15.0937192,Apartment,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+120,42245,829,Saturday,6,0.3,0.699305556,3.06,14.94,20.4819277,Apartment,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+121,42245,829,Saturday,6,1.8,0.699305556,2.82,17.18,16.4144354,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+122,42236,820,Thursday,2,3.5,0.698611111,5.64,19.36,29.1322314,Business,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+123,42287,1010,Saturday,2,2.9,0.698611111,2,21.43,9.3327112,House,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+124,42302,1025,Sunday,2,2.9,0.698611111,0,15.44,0,Hotel,Male,-,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+125,42218,802,Sunday,1,2.6,0.697916667,0.12,14.88,0.8064516,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Aug
+126,42267,920,Sunday,4,2.8,0.697916667,5,24.8,20.1612903,House,Female,Cash,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Sep
+127,42211,726,Sunday,7,2.9,0.697222222,5,34.77,14.3802128,House,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Jul
+128,42267,920,Sunday,5,1,0.697222222,1,9.36,10.6837607,House,Male,Cash,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+129,42287,1010,Saturday,3,3,0.697222222,0,27.07,0,House,Female,-,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+130,42204,719,Sunday,9,2.73,0.696527778,8.81,27.19,32.4016182,Apartment,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+131,42224,808,Saturday,4,3.3,0.696527778,5,33.72,14.8279953,Apartment,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+132,42231,815,Saturday,7,3.4,0.695833333,5,25.78,19.3948798,House,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+133,42273,926,Saturday,8,8.4,0.695833333,5,26.31,19.0041809,House,Male,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+134,42220,804,Tuesday,5,1.5,0.695138889,3,12.53,23.9425379,House,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+135,42253,906,Sunday,9,2.5,0.695138889,3.57,28.43,12.5571579,House,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+136,42211,726,Sunday,5,1.2,0.694444444,3,19.94,15.0451354,House,Male,Cash,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+137,42204,719,Sunday,2,2.6,0.69375,2.92,22.08,13.2246377,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+138,42228,812,Wednesday,10,3.1,0.69375,10,27.37,36.5363537,Apartment,Female,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+139,42274,927,Sunday,6,1.1,0.693055556,4.33,32.67,13.2537496,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+140,42203,718,Saturday,1,2.7,0.692361111,3,21,14.2857143,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+141,42221,805,Wednesday,1,2.5,0.692361111,4,18.88,21.1864407,House,Female,Cash,Credit,Angel,North End,43.633105,-116.208304,Aug
+142,42227,811,Tuesday,7,3.3,0.692361111,0.97,15.03,6.4537591,House,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+143,42246,830,Sunday,2,2,0.692361111,5,27.11,18.4433788,House,Female,Cash,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+144,42217,801,Saturday,6,0.3,0.691666667,1,8.83,11.3250283,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+145,42266,919,Saturday,5,0.0602273,0.691666667,2.02,12.53,16.1213089,House,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+146,42229,813,Thursday,7,2.9,0.688888889,4,41.65,9.6038415,House,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+147,42260,913,Sunday,6,1.3,0.688888889,5,32.76,15.2625153,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+148,42220,804,Tuesday,6,0.2,0.688194444,2.28,15.72,14.5038168,Apartment,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+149,42252,905,Saturday,2,2.3,0.6875,7.22,25.78,28.0062064,House,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+150,42288,1011,Sunday,1,2,0.6875,10,25.65,38.9863548,House,Female,Cash,Credit,Sammie,North End,43.633105,-116.208304,Oct
+151,42288,1011,Sunday,1,2.8,0.6875,4,28.48,14.0449438,House,Female,Cash,Credit,Sammie,North End,43.633105,-116.208304,Oct
+152,42217,801,Saturday,5,2,0.686805556,2.26,16.74,13.5005974,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+153,42236,820,Thursday,7,2.4,0.686805556,5,15.27,32.7439424,House,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+154,42267,920,Sunday,5,1.5,0.686805556,4,17.51,22.8440891,House,Male,Cash,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+155,42225,809,Sunday,3,3,0.686111111,2.74,22.26,12.3090746,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+156,42267,920,Sunday,5,0.2,0.686111111,1.99,11.47,17.3496077,House,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+157,42231,815,Saturday,2,1.5,0.685416667,5,40.59,12.318305,House,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+158,42238,822,Saturday,3,2.7,0.684722222,2,22.44,8.912656,House,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+159,42273,926,Saturday,1,2,0.684722222,4,23.66,16.9061708,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+160,42203,718,Saturday,2,3.2,0.683333333,4.69,19.31,24.2879337,Hotel,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+161,42229,813,Thursday,6,1,0.682638889,2,13.28,15.060241,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+162,42211,726,Sunday,2,2.9,0.681944444,6,14.65,40.9556314,House,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+163,42309,1101,Sunday,1,2.8,0.681944444,5,16.73,29.8864316,House,Female,Cash,Credit,Sammie,North End,43.633105,-116.208304,Nov
+164,42203,718,Saturday,6,1.7,0.679861111,3.95,28.05,14.0819964,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+165,42288,1011,Sunday,6,0.2,0.679861111,3,21,14.2857143,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+166,42295,1018,Sunday,2,2.8,0.679861111,3.39,24.61,13.7748883,House,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+167,42224,808,Saturday,6,0.8,0.679166667,5,31.74,15.7529931,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+168,42287,1010,Saturday,7,2.6,0.678472222,5.14,11.86,43.3389545,Apartment,Male,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Oct
+169,42302,1025,Sunday,2,2.6,0.677083333,3.3,21.7,15.2073733,House,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+170,42252,905,Saturday,5,1.2,0.676388889,0,8.83,0,Apartment,Male,-,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+171,42217,801,Saturday,5,0.6,0.675,3.55,16.45,21.5805471,Business,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+172,42273,926,Saturday,5,0.6,0.674305556,5.86,34.14,17.1646163,Business,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+173,42233,817,Monday,5,1.2,0.672916667,0,17.73,0,Apartment,Male,-,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+174,42253,906,Sunday,5,1,0.672916667,2.16,17.84,12.1076233,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+175,42287,1010,Saturday,2,2.9,0.672916667,5,16.78,29.7973778,Hotel,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+176,42238,822,Saturday,1,2.3,0.670833333,3.15,27.85,11.3105925,Apartment,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Aug
+177,42221,805,Wednesday,6,1.5,0.667361111,4.08,30.92,13.1953428,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+178,42245,829,Saturday,10,4.4,0.667361111,5,25.78,19.3948798,House,Male,Cash,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+179,42267,920,Sunday,4,2.9,0.666666667,2,28.44,7.0323488,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Sep
+180,42287,1010,Saturday,9,0.6,0.665972222,5,24.04,20.7986689,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+181,42228,812,Wednesday,1,3.9,0.663888889,3,26.73,11.2233446,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+182,42235,819,Wednesday,7,2.5,0.663888889,4,21.55,18.5614849,House,Female,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+183,42209,724,Friday,2,3.6,0.6625,3.63,16.37,22.1747098,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+184,42260,913,Sunday,9,0.3,0.6625,3.22,16.78,19.1895113,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+185,42220,804,Tuesday,6,1.3,0.661111111,3.06,26.94,11.3585746,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+186,42218,802,Sunday,2,2.9,0.660416667,5,23.18,21.5703192,House,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+187,42227,811,Tuesday,10,3.9,0.660416667,3,15.4,19.4805195,House,Female,Credit,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+188,42260,913,Sunday,5,0.6,0.660416667,4,21.01,19.0385531,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+189,42231,815,Saturday,6,0.9,0.659722222,2,12.27,16.2999185,House,Male,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+190,42273,926,Saturday,2,2.5,0.659722222,3.02,21.98,13.7397634,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+191,42287,1010,Saturday,6,1.5,0.659722222,2.28,15.72,14.5038168,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+192,42218,802,Sunday,2,2.5,0.659027778,3,15.27,19.6463654,House,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+193,42274,927,Sunday,1,2.2,0.659027778,0,20.75,0,Apartment,Female,-,Credit,Sammie,North End,43.633105,-116.208304,Sep
+194,42246,830,Sunday,2,3.1,0.658333333,3,14.65,20.4778157,House,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+195,42211,726,Sunday,8,2.6,0.657638889,5.51,47.49,11.6024426,Apartment,Male,Credit,Credit,Angel,Hidden Springs,43.723879,-116.255046,Jul
+196,42225,809,Sunday,1,2.4,0.657638889,3,12.92,23.2198142,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+197,42245,829,Saturday,9,0.5,0.657638889,2,12.38,16.1550889,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+198,42236,820,Thursday,2,1.3,0.656944444,3.92,16.08,24.3781095,Business,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+199,42230,814,Friday,6,1,0.65625,5,46.44,10.7665805,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+200,42218,802,Sunday,3,2.1,0.653472222,1,21,4.7619048,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+201,42302,1025,Sunday,6,2.8,0.652777778,1.12,18.88,5.9322034,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+202,42231,815,Saturday,1,2,0.652083333,3,19.41,15.4559505,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+203,42224,808,Saturday,9,0.0789,0.651388889,3,17.71,16.9395822,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+204,42217,801,Saturday,5,0.6,0.649305556,10.12,29.88,33.8688086,Business,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+205,42221,805,Wednesday,1,1.8,0.649305556,3,15.72,19.0839695,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Aug
+206,42238,822,Saturday,7,2.9,0.647222222,4,30,13.3333333,House,Male,Cash,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+207,42203,718,Saturday,5,0.8,0.646527778,4.02,18.98,21.1801897,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+208,42220,804,Tuesday,1,2.8,0.644444444,4,22.76,17.5746924,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+209,42235,819,Wednesday,5,1.2,0.64375,5,21.95,22.7790433,Apartment,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+210,42245,829,Saturday,4,3.2,0.64375,4,19.25,20.7792208,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+211,42238,822,Saturday,6,1.5,0.643055556,1.47,28.53,5.1524711,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+212,42231,815,Saturday,1,3,0.642361111,0,40.59,0,Apartment,Male,-,Credit,Sammie,North End,43.633105,-116.208304,Aug
+213,42218,802,Sunday,1,2.8,0.641666667,1.52,11.48,13.2404181,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Aug
+214,42228,812,Wednesday,8,8.3,0.641666667,5,19.5,25.6410256,House,Male,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Aug
+215,42238,822,Saturday,2,2.9,0.641666667,2,16.73,11.9545726,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+216,42211,726,Sunday,9,2.6,0.640972222,2,19.63,10.188487,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+217,42211,726,Sunday,2,2.6,0.639583333,1,12,8.3333333,House,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+218,42227,811,Tuesday,3,3.1,0.639583333,0,14.49,0,Apartment,Male,-,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+219,42220,804,Tuesday,1,2.5,0.638194444,3,14.65,20.4778157,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+220,42229,813,Thursday,6,1.3,0.636805556,1.88,14.12,13.3144476,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+221,42245,829,Saturday,10,3.6,0.636805556,0.69,26.31,2.622577,House,Male,Cash,Cash,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+222,42252,905,Saturday,2,2.5,0.634027778,3.92,22.08,17.7536232,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+223,42227,811,Tuesday,5,1.4,0.633333333,2,27.24,7.3421439,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+224,42236,820,Thursday,3,2,0.633333333,0.62,39.38,1.5744033,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+225,42221,805,Wednesday,5,3.6,0.632638889,3.23,16.77,19.2605844,Apartment,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+226,42238,822,Saturday,6,1.2,0.63125,3,12.54,23.923445,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+227,42229,813,Thursday,3,3.1,0.628472222,7,21.13,33.1282537,Business,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+228,42203,718,Saturday,5,0.3,0.627083333,1.94,13.06,14.8545176,Business,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+229,42227,811,Tuesday,7,3.1,0.627083333,4.28,15.72,27.2264631,House,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+230,42220,804,Tuesday,1,2,0.626388889,2,11.48,17.4216028,House,Male,Cash,Credit,Angel,North End,43.633105,-116.208304,Aug
+231,42245,829,Saturday,9,0.5,0.626388889,0,14.65,0,House,Male,-,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+232,42252,905,Saturday,2,3.6,0.622222222,5,19.05,26.2467192,Hotel,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+233,42220,804,Tuesday,5,1.6,0.621527778,3.23,16.77,19.2605844,Apartment,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+234,42221,805,Wednesday,6,2.1,0.620138889,5,25.3,19.7628458,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+235,42225,809,Sunday,4,1.8,0.617361111,1.56,28.44,5.4852321,House,Male,Cash,Cash,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+236,42225,809,Sunday,7,3.8,0.614583333,2,14.1,14.1843972,House,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+237,42224,808,Saturday,6,1.7,0.6125,3.86,17.14,22.5204201,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+238,42231,815,Saturday,2,2.5,0.6125,5,19.95,25.0626566,House,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+239,42203,718,Saturday,5,1.2,0.607638889,2.65,27.35,9.6892139,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+240,42212,727,Monday,2,3.8,0.606944444,0,13.97,0,Business,Female,-,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+241,42229,813,Thursday,7,2.7,0.606944444,9.1,18.9,48.1481481,Apartment,Female,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+242,42236,820,Thursday,1,2.8,0.606944444,5,14.13,35.3857042,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+243,42209,724,Friday,6,1.6,0.60625,5,16.6,30.1204819,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+244,42221,805,Wednesday,7,2.5,0.605555556,3,17.67,16.9779287,Business,Female,Cash,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+245,42238,822,Saturday,6,2.6,0.605555556,2,35.55,5.625879,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+246,42220,804,Tuesday,5,1.4,0.604861111,2,30.43,6.5724614,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+247,42218,802,Sunday,9,1,0.604166667,2,26.81,7.459903,House,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+248,42252,905,Saturday,8,7.5,0.602777778,3,22.26,13.4770889,House,Female,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+249,42203,718,Saturday,2,1.7,0.602083333,2.73,27.36,9.9780702,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+250,42211,726,Sunday,5,2,0.602083333,2,46.43,4.3075598,House,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+251,42245,829,Saturday,3,2.5,0.600694444,3.35,14.65,22.8668942,Business,Female,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+252,42217,801,Saturday,6,2.2,0.6,3,17.03,17.6159718,House,Female,Credit,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+253,42220,804,Tuesday,1,2.5,0.6,7,24.61,28.4437221,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+254,42211,726,Sunday,9,0.6,0.597916667,6,30.1,19.9335548,House,Female,Cash,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+255,42224,808,Saturday,6,2.7,0.597916667,3,18.9,15.8730159,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+256,42218,802,Sunday,7,2.7,0.597222222,4,18.84,21.2314225,Apartment,Female,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+257,42225,809,Sunday,2,3.6,0.597222222,0,17.44,0,Business,Female,-,-,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+258,42217,801,Saturday,7,2.9,0.596527778,2.14,34.86,6.1388411,House,Male,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+259,42209,724,Friday,5,1.6,0.595138889,1.18,26.82,4.3997017,Apartment,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+260,42212,727,Monday,3,2.9,0.593055556,3,23.01,13.0378096,House,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+261,42221,805,Wednesday,3,2.8,0.592361111,3,18.37,16.3309744,Business,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+262,42218,802,Sunday,5,0.9,0.591666667,4,18.24,21.9298246,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+263,42224,808,Saturday,5,0.8,0.591666667,2,14.65,13.6518771,House,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+264,42225,809,Sunday,1,3.9,0.591666667,4,27.11,14.7547031,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+265,42252,905,Saturday,5,1.4,0.588888889,5,21.28,23.4962406,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+266,42218,802,Sunday,9,2.6,0.586805556,2,28.44,7.0323488,Apartment,Female,Cash,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+267,42218,802,Sunday,3,2.2,0.586805556,7,35.47,19.7349873,House,Male,Cash,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+268,42229,813,Thursday,5,0.7,0.586805556,0,11.86,0,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+269,42221,805,Wednesday,9,0.079,0.586111111,5.61,19.39,28.9324394,Apartment,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+270,42229,813,Thursday,6,0.2,0.585416667,2.12,29.88,7.0950469,Apartment,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+271,42236,820,Thursday,3,2.5,0.585416667,0.81,24.19,3.3484911,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+272,42231,815,Saturday,2,2.6,0.584722222,5,51.72,9.6674401,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+273,42227,811,Tuesday,1,2.8,0.584027778,5,20.9,23.923445,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+274,42245,829,Saturday,6,0.8,0.584027778,3,28.44,10.5485232,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+275,42245,829,Saturday,9,0.4,0.584027778,2.56,28.44,9.0014065,Business,Female,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+276,42211,726,Sunday,9,0.5,0.581944444,2,12.54,15.9489633,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+277,42217,801,Saturday,3,2.7,0.578472222,4,16.08,24.8756219,House,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+278,42217,801,Saturday,9,1.2,0.577777778,3,23.12,12.9757785,House,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+279,42203,718,Saturday,5,1.6,0.573611111,3,15.71,19.0961171,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+280,42209,724,Friday,2,1.7,0.573611111,0,21.18,0,Apartment,Male,-,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+281,42214,729,Wednesday,1,2.6,0.572222222,3,19.41,15.4559505,House,Female,Credit,Cash,Angel,North End,43.633105,-116.208304,Jul
+282,42252,905,Saturday,1,2.3,0.572222222,3.5,16.5,21.2121212,House,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Sep
+283,42229,813,Thursday,7,3.2,0.571527778,5,18.37,27.2182907,Business,Female,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+284,42212,727,Monday,6,1.3,0.570833333,2,17.3,11.5606936,Business,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+285,42225,809,Sunday,9,0.4,0.570833333,0.16,19.84,0.8064516,Apartment,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+286,42227,811,Tuesday,7,3.1,0.570138889,2.81,27.19,10.3346819,House,Male,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+287,42218,802,Sunday,1,2.9,0.568055556,4,18.04,22.172949,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+288,42212,727,Monday,6,0.2,0.567361111,2,14.61,13.6892539,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+289,42252,905,Saturday,5,0.7,0.566666667,3,25.1,11.9521912,Apartment,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+290,42229,813,Thursday,10,3.2,0.565972222,2,14.13,14.1542817,Apartment,Male,Credit,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+291,42236,820,Thursday,3,3.1,0.565972222,3,13.44,22.3214286,Business,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+292,42238,822,Saturday,5,0.7,0.565972222,2.35,14.65,16.0409556,Apartment,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+293,42217,801,Saturday,6,0.9,0.563194444,5,19.41,25.7599176,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+294,42218,802,Sunday,6,0.2,0.5625,4.41,13.59,32.4503311,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+295,42225,809,Sunday,2,3.6,0.5625,2,16.78,11.9189511,Business,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+296,42218,802,Sunday,1,3.6,0.561805556,3,15.27,19.6463654,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+297,42224,808,Saturday,3,2.4,0.560416667,6.78,47.22,14.3583227,House,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+298,42245,829,Saturday,10,3.1,0.558333333,2.16,17.84,12.1076233,Apartment,Female,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+299,42224,808,Saturday,2,2.8,0.557638889,5,23.51,21.2675457,House,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+300,42224,808,Saturday,2,3,0.556944444,5.86,23.14,25.3241141,Apartment,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+301,42224,808,Saturday,1,3.9,0.555555556,5,26.83,18.6358554,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+302,42211,726,Sunday,6,2.6,0.554166667,2,22.43,8.9166295,House,Female,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+303,42203,718,Saturday,6,1.3,0.552777778,4.31,15.71,27.4347549,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+304,42218,802,Sunday,9,1.2,0.551388889,3,21,14.2857143,House,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+305,42231,815,Saturday,3,3.3,0.550694444,0.39,14.61,2.6694045,Business,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+306,42212,727,Monday,6,1.6,0.549305556,3.22,18.78,17.1458999,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+307,42225,809,Sunday,6,1.4,0.549305556,2,14.65,13.6518771,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+308,42220,804,Tuesday,3,2.7,0.546527778,0.03,24.02,0.1248959,Hotel,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+309,42221,805,Wednesday,3,2.6,0.546527778,0.59,10.41,5.6676273,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+310,42229,813,Thursday,3,2.5,0.545833333,5.98,30.02,19.9200533,Business,Female,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+311,42227,811,Tuesday,3,2,0.543055556,3,21.23,14.1309468,Business,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+312,42236,820,Thursday,6,1.7,0.543055556,4.63,21.37,21.6658868,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+313,42252,905,Saturday,7,3,0.543055556,1,16.77,5.9630292,Apartment,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+314,42238,822,Saturday,6,2,0.542361111,0,12.87,0,House,Male,-,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+315,42218,802,Sunday,3,2.9,0.541666667,4.4,31.6,13.9240506,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+316,42220,804,Tuesday,3,3.2,0.541666667,2,21.28,9.3984962,Business,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+317,42220,804,Tuesday,2,2.7,0.541666667,2.35,14.65,16.0409556,Business,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+318,42214,729,Wednesday,2,2.4,0.540277778,0.28,14.72,1.9021739,House,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+319,42224,808,Saturday,4,3.4,0.540277778,0,13.95,0,Apartment,Male,-,Cash,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+320,42252,905,Saturday,3,2.2,0.538194444,0.14,28.96,0.4834254,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+321,42211,726,Sunday,10,3.8,0.5375,0,23.21,0,House,Male,-,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Jul
+322,42236,820,Thursday,1,3,0.536805556,2.35,14.65,16.0409556,Apartment,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Aug
+323,42245,829,Saturday,3,3.2,0.535416667,0,12.273,0,Business,Male,-,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+324,42218,802,Sunday,3,2.9,0.534722222,3.22,16.78,19.1895113,Business,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+325,42229,813,Thursday,3,2.3,0.534722222,2,22.59,8.853475,Apartment,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+326,42218,802,Sunday,2,2.5,0.532638889,3,15.4,19.4805195,Apartment,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+327,42211,726,Sunday,2,2.8,0.531944444,7.3,42.7,17.0960187,House,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+328,42218,802,Sunday,1,2.9,0.531944444,5,17.82,28.0583614,Apartment,Male,Cash,Credit,Sammie,North End,43.633105,-116.208304,Aug
+329,42224,808,Saturday,1,2,0.526388889,2,17.12,11.682243,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+330,42229,813,Thursday,3,1.4,0.526388889,3.23,16.77,19.2605844,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+331,42231,815,Saturday,3,2.2,0.526388889,4,22.07,18.1241504,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+332,42217,801,Saturday,3,1.6,0.525,3,16.24,18.4729064,House,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+333,42209,724,Friday,3,2.6,0.523611111,3.5,21,16.6666667,Apartment,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+334,42211,726,Sunday,3,2.2,0.523611111,5,24.04,20.7986689,House,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+335,42224,808,Saturday,2,3.4,0.523611111,0,12.87,0,House,Female,-,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+336,42217,801,Saturday,3,2.9,0.522916667,6.56,28.44,23.0661041,Business,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+337,42217,801,Saturday,3,3.6,0.522222222,6,30.62,19.5950359,Business,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+338,42224,808,Saturday,10,1.8,0.522222222,5,24.61,20.3169443,House,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+339,42212,727,Monday,3,3.1,0.521527778,3.36,15.44,21.761658,Business,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Jul
+340,42227,811,Tuesday,3,2.9,0.521527778,5.23,14.73,35.5057705,Business,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+341,42245,829,Saturday,2,2.5,0.521527778,1,19.78,5.0556117,House,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+342,42214,729,Wednesday,1,2.1,0.520833333,4,14.94,26.7737617,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+343,42236,820,Thursday,3,2.1,0.520138889,3,21.55,13.9211137,Business,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+344,42224,808,Saturday,6,0.8,0.518055556,0,0,0,Business,Female,-,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+345,42236,820,Thursday,6,1.1,0.515972222,0,11.86,0,House,Female,-,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+346,42217,801,Saturday,3,2.8,0.511805556,2.16,40.84,5.2889324,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+347,42220,804,Tuesday,6,0.7,0.511805556,4.82,21.18,22.7573182,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+348,42211,726,Sunday,3,2.6,0.508333333,4,28.98,13.8026225,House,Female,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+349,42212,727,Monday,3,2.2,0.508333333,0,22.59,0,Apartment,Female,-,Cash,Angel,Garden City,43.633857,-116.24628,Jul
+350,42221,805,Wednesday,1,3.4,0.50625,4,11.48,34.8432056,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+351,42252,905,Saturday,5,1,0.50625,4,26.31,15.2033447,Apartment,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+352,42227,811,Tuesday,7,2.6,0.505555556,2,17.3,11.5606936,Business,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+353,42224,808,Saturday,6,0.8,0.503472222,4.29,15.71,27.3074475,Business,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+354,42252,905,Saturday,2,1.5,0.503472222,5,70.58,7.0841598,House,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+355,42224,808,Saturday,9,0.7,0.502777778,4,12.27,32.599837,House,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+356,42231,815,Saturday,7,3.1,0.502083333,4,28.44,14.0646976,House,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+357,42238,822,Saturday,6,0.4,0.501388889,2,18.25,10.9589041,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+358,42227,811,Tuesday,3,3.2,0.5,2,21.28,9.3984962,Business,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+359,42229,813,Thursday,2,1.4,0.5,2,14.65,13.6518771,Business,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+360,42245,829,Saturday,3,3,0.497222222,0,21.37,0,Apartment,Female,-,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+361,42252,905,Saturday,6,0.7,0.493055556,4,21,19.047619,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+362,42225,809,Sunday,1,1.9,0.490277778,4.28,15.72,27.2264631,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Aug
+363,42227,811,Tuesday,3,2.9,0.489583333,3,22.08,13.5869565,House,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+364,42229,813,Thursday,3,2.7,0.488888889,5,29.54,16.9262018,Business,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+365,42214,729,Wednesday,6,1.2,0.488194444,2.47,12.53,19.7126895,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+366,42209,724,Friday,6,0.3,0.486805556,2,16.08,12.4378109,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+367,42218,802,Sunday,6,1.6,0.485416667,5,27.97,17.876296,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+368,42252,905,Saturday,7,3.4,0.484027778,3.99,26.01,15.3402537,Apartment,Male,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+369,42217,801,Saturday,1,4,0.483333333,5,21.91,22.8206298,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+370,42218,802,Sunday,5,1.8,0.483333333,3,13.28,22.5903614,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+371,42224,808,Saturday,7,2.9,0.482638889,11.32,66.68,16.9766047,Business,Male,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+372,42225,809,Sunday,5,0.9,0.482638889,3,18.9,15.8730159,House,Male,Cash,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+373,42227,811,Tuesday,9,0.7,0.480555556,0,9.33,0,Apartment,Male,-,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+374,42209,724,Friday,5,1.5,0.479166667,3,21.43,13.9990667,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+375,42212,727,Monday,9,0.7,0.476388889,3.82,17.18,22.2351572,House,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+376,42214,729,Wednesday,3,2.6,0.474305556,4,18.9,21.1640212,Business,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+377,42229,813,Thursday,9,0.2,0.474305556,3,14.65,20.4778157,Business,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+378,42218,802,Sunday,9,0.4,0.473611111,2.17,8.83,24.5753114,Apartment,Female,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+379,42218,802,Sunday,7,2.3,0.470833333,3.22,36.78,8.754758,Apartment,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+380,42218,802,Sunday,3,2.2,0.470138889,3.25,19.75,16.4556962,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+381,42217,801,Saturday,9,2.1,0.465277778,1.58,18.42,8.577633,House,Female,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+382,42221,805,Wednesday,9,1.1,0.4625,1,9.89,10.1112235,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+383,42214,729,Wednesday,1,3,0.458333333,3,32.89,9.1213135,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+384,42224,808,Saturday,6,1.3,0.458333333,5,35.8,13.9664804,House,Female,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+385,42221,805,Wednesday,3,2.2,0.457638889,3,23.48,12.7768313,Business,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+386,42211,726,Sunday,1,2.9,0.45625,5.29,21.71,24.3666513,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+387,42212,727,Monday,9,2,0.445138889,3,10.95,27.3972603,House,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+388,42211,726,Sunday,9,0.075,0.444444444,3,15.44,19.4300518,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+389,42218,802,Sunday,1,3.9,0.443055556,2,24.45,8.1799591,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+390,42221,805,Wednesday,5,0.8,0.4375,6,27.35,21.9378428,House,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+391,42245,829,Saturday,7,3.6,0.070138889,4,23.48,17.0357751,House,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+392,42245,829,Saturday,7,2.5,0.05,3,20.57,14.5843461,House,Male,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+393,42245,829,Saturday,3,2.5,0.047916667,5,21.36,23.4082397,House,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+394,42217,801,Saturday,9,0.3,0.022916667,1.11,9.89,11.223458,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+395,42245,829,Saturday,5,1.2,0.01875,2.35,14.65,16.0409556,Apartment,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+396,42287,1010,Saturday,3,2.1,0.017361111,0.99,14.01,7.0663812,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+397,42245,829,Saturday,4,4.2,0.014583333,5,20.78,24.0615977,House,Male,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+398,42267,920,Sunday,2,2.9,0.009027778,5,11.86,42.158516,Hotel,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+399,42244,828,Friday,2,2.4,0.006944444,2,18.26,10.9529025,House,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+400,42265,918,Friday,1,3,0.00625,0,23.48,0,House,Female,-,Credit,Angel,North End,43.633105,-116.208304,Sep
+401,42217,801,Saturday,4,3,0.004166667,5,22.64,22.0848057,Apartment,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+402,42245,829,Saturday,2,2.1,0.002083333,3.22,16.78,19.1895113,Apartment,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+403,42245,829,Saturday,2,3.2,0.002083333,2.35,14.65,16.0409556,Hotel,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+404,42267,920,Sunday,3,3.1,0,4.28,15.72,27.2264631,Hotel,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+405,42307,1030,Friday,7,3.5,6,6,15.4,38.961039,Apartment,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+406,42307,1030,Friday,3,2.3,5,5,15.18,32.9380764,Apartment,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+407,42307,1030,Friday,3,3.3,4.73,4.23,40.77,10.3752759,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+408,42307,1030,Friday,6,1,3.85,3.35,14.65,22.8668942,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+409,42307,1030,Friday,5,2.5,3,3,17.82,16.8350168,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+410,42307,1030,Friday,7,2.9,2.67,2.17,17.83,12.1704992,Apartment,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+411,42287,1010,Saturday,7,2.9,0.997222222,5.69,19.31,29.4665976,House,Male,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+412,42293,1016,Friday,7,3.2,0.997222222,3,16.78,17.8784267,Business,Female,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Oct
+413,42286,1009,Friday,10,3.8,0.994444444,6,17.9,33.5195531,House,Male,Credit,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+414,42272,925,Friday,5,0.9,0.99375,0,13.95,0,House,Male,-,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+415,42225,809,Sunday,6,0.3,0.991666667,9.72,20.28,47.9289941,Apartment,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+416,42286,1009,Friday,1,3.8,0.991666667,2,11.48,17.4216028,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+417,42244,828,Friday,2,2.5,0.990972222,1,17.18,5.8207218,House,Male,Cash,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+418,42267,920,Sunday,5,0.9,0.990972222,3.75,16.25,23.0769231,House,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+419,42287,1010,Saturday,6,1.3,0.989583333,25,25.65,97.4658869,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+420,42233,817,Monday,3,2.2,0.985416667,3,15.27,19.6463654,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+421,42239,823,Sunday,3,3.2,0.984722222,1,15.71,6.3653724,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+422,42272,925,Friday,7,3,0.982638889,4.44,35.56,12.4859393,House,Male,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+423,42244,828,Friday,6,1.2,0.981944444,0,14.65,0,House,Female,-,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+424,42265,918,Friday,7,2.9,0.98125,2,29.47,6.7865626,House,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+425,42232,816,Sunday,1,1.6,0.980555556,4,20.46,19.5503421,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+426,42273,926,Saturday,6,1.3,0.980555556,5,17.3,28.9017341,House,Male,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+427,42265,918,Friday,9,0.0708333,0.979861111,5,18.9,26.4550265,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+428,42274,927,Sunday,5,2.3,0.979861111,4.61,19.39,23.7751418,Apartment,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+429,42217,801,Saturday,9,0.6,0.977777778,4,34.1,11.7302053,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+430,42245,829,Saturday,9,0.4,0.977777778,5,24.92,20.0642055,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+431,42244,828,Friday,9,0.7,0.977083333,0,17.18,0,Apartment,Female,-,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+432,42265,918,Friday,5,0.9,0.977083333,1.1,18.9,5.8201058,Business,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+433,42225,809,Sunday,6,0.2,0.976388889,0.4,25.6,1.5625,Apartment,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+434,42286,1009,Friday,6,2.7,0.976388889,3,15.18,19.7628458,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+435,42307,1030,Friday,6,2.8,0.976388889,2,14.65,13.6518771,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+436,42294,1017,Saturday,5,0.8,0.975,5,21.39,23.3754091,House,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+437,42254,907,Monday,6,0.3,0.973611111,3.78,24.22,15.6069364,Apartment,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+438,42216,731,Friday,6,0.8,0.972916667,5,22.39,22.3313979,Apartment,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Jul
+439,42293,1016,Friday,7,3.5,0.972222222,5,15.4,32.4675325,Apartment,Female,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Oct
+440,42213,728,Tuesday,1,4.1,0.970138889,2,14.65,13.6518771,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+441,42251,904,Friday,1,3.1,0.970138889,3,21.28,14.0977444,Apartment,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+442,42265,918,Friday,5,1.2,0.970138889,2.28,15.72,14.5038168,House,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+443,42239,823,Sunday,9,0.0765,0.969444444,0,22.61,0,Apartment,Male,-,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+444,42254,907,Monday,2,2.5,0.969444444,7,0,0,Apartment,Male,Cash,-,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+445,42286,1009,Friday,10,3.9,0.96875,4,23.18,17.2562554,House,Female,Cash,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+446,42204,719,Sunday,1,3.8,0.968055556,3,15.71,19.0961171,Apartment,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+447,42230,814,Friday,6,2.6,0.968055556,3,12.54,23.923445,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+448,42259,912,Saturday,6,2,0.968055556,1,24.2,4.1322314,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+449,42274,927,Sunday,2,1.4,0.967361111,3.94,13.06,30.1684533,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+450,42287,1010,Saturday,3,3.1,0.966666667,5.69,26.31,21.6267579,Hotel,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+451,42204,719,Sunday,1,3,0.965972222,4,20.28,19.7238659,Apartment,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+452,42274,927,Sunday,2,3,0.965972222,2,13.33,15.0037509,Business,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+453,42232,816,Sunday,1,3.1,0.964583333,4.48,17.52,25.5707763,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Aug
+454,42251,904,Friday,5,0.5,0.963888889,1.48,25.52,5.799373,Business,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+455,42272,925,Friday,1,3.5,0.963888889,4,19.54,20.4708291,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+456,42258,911,Friday,1,3.1,0.9625,5,21.64,23.1053604,Apartment,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+457,42232,816,Sunday,3,2.1,0.961805556,0,20.59,0,Apartment,Male,-,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+458,42244,828,Friday,2,2.4,0.961805556,2.44,17.56,13.8952164,House,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+459,42273,926,Saturday,1,2.7,0.961805556,3,18.9,15.8730159,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+460,42293,1016,Friday,7,3.1,0.961805556,3.52,16.48,21.3592233,House,Male,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Oct
+461,42253,906,Sunday,9,0.4,0.960416667,6,19.41,30.9119011,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+462,42267,920,Sunday,1,4,0.959027778,2,27.37,7.3072707,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+463,42245,829,Saturday,6,1.3,0.956944444,3,18.37,16.3309744,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+464,42254,907,Monday,5,0.5,0.95625,3.52,11.48,30.6620209,Business,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+465,42294,1017,Saturday,3,3.3,0.954861111,3.92,16.08,24.3781095,House,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+466,42225,809,Sunday,3,2.2,0.953472222,2.87,22.13,12.9688206,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+467,42272,925,Friday,3,2.2,0.953472222,2.33,32.67,7.1319253,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+468,42230,814,Friday,3,2.8,0.952777778,5,24.72,20.2265372,Business,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+469,42233,817,Monday,2,3.3,0.952777778,2,25.59,7.815553,Hotel,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+470,42261,914,Monday,7,3.1,0.952083333,2.29,15.71,14.5767027,House,Male,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+471,42286,1009,Friday,5,1.4,0.951388889,4.52,23.48,19.2504259,House,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+472,42307,1030,Friday,3,3.2,0.951388889,1,16.24,6.1576355,Business,Female,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+473,42233,817,Monday,2,3.3,0.950694444,2,30.16,6.6312997,Hotel,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+474,42204,719,Sunday,9,2.4,0.949305556,4.04,21.96,18.3970856,Apartment,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+475,42259,912,Saturday,6,2.1,0.947916667,5,23.66,21.1327134,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+476,42232,816,Sunday,3,3.1,0.946527778,2,15.71,12.7307447,House,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+477,42232,816,Sunday,9,0.0789,0.946527778,5.54,24.46,22.6492232,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+478,42274,927,Sunday,3,2.7,0.946527778,2.23,52.77,4.2258859,House,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+479,42286,1009,Friday,1,3.6,0.945833333,6,24.59,24.4001627,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+480,42217,801,Saturday,6,1.1,0.944444444,5,24.01,20.8246564,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+481,42273,926,Saturday,6,1.3,0.944444444,2,15.27,13.0975769,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+482,42286,1009,Friday,9,0.4,0.944444444,2.1,18.9,11.1111111,Apartment,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+483,42216,731,Friday,2,2.2,0.943055556,2,10.41,19.2122959,House,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+484,42259,912,Saturday,9,0.4,0.943055556,5,24.19,20.6696982,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+485,42251,904,Friday,1,1.7,0.942361111,3.35,14.65,22.8668942,Business,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Sep
+486,42210,725,Saturday,1,1,0.940972222,0,22.87,0,House,Female,-,Cash,Sammie,North End,43.633105,-116.208304,Jul
+487,42265,918,Friday,6,0.3,0.940277778,2.17,20.83,10.4176668,Apartment,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+488,42265,918,Friday,7,2.3,0.939583333,5,34.03,14.692918,House,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+489,42267,920,Sunday,9,0.2,0.939583333,0,17.16,0,Apartment,Male,-,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+490,42287,1010,Saturday,2,3.5,0.939583333,1.69,17.31,9.7631427,Hotel,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+491,42233,817,Monday,9,0.5,0.938888889,3,37.1,8.0862534,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+492,42232,816,Sunday,6,1,0.938194444,7,36.37,19.2466318,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+493,42233,817,Monday,7,3,0.938194444,5,17.17,29.1205591,Apartment,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+494,42239,823,Sunday,7,3.9,0.9375,2.69,17.31,15.5401502,Apartment,Male,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+495,42254,907,Monday,1,3.1,0.9375,3,25.86,11.6009281,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+496,42261,914,Monday,9,0.5,0.9375,3,13.95,21.5053763,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+497,42204,719,Sunday,9,1.1,0.936805556,3.19,22.81,13.9850943,House,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+498,42267,920,Sunday,1,3.3,0.936805556,1.5,12.54,11.9617225,Apartment,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+499,42267,920,Sunday,1,3.6,0.936111111,2.75,15.44,17.8108808,House,Male,Cash,Credit,Sammie,North End,43.633105,-116.208304,Sep
+500,42267,920,Sunday,1,4.1,0.935416667,4,21.53,18.5787274,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+501,42225,809,Sunday,1,3.1,0.934722222,3,24.04,12.4792013,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+502,42213,728,Tuesday,1,2.8,0.934027778,4.94,22.06,22.3934723,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Jul
+503,42253,906,Sunday,3,2.2,0.934027778,4,18.37,21.7746326,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+504,42307,1030,Friday,4,2.1,0.934027778,6,28.51,21.0452473,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+505,42244,828,Friday,2,2.8,0.933333333,2,15.97,12.5234815,House,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+506,42213,728,Tuesday,1,1.9,0.932638889,4,20.33,19.6753566,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+507,42254,907,Monday,2,3.2,0.931944444,3.91,16.09,24.300808,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+508,42259,912,Saturday,6,0.3,0.931944444,4,32.18,12.4300808,Apartment,Female,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+509,42210,725,Saturday,5,2,0.93125,2.9,17.1,16.9590643,House,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Jul
+510,42274,927,Sunday,5,2.1,0.93125,5,21.81,22.9252636,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+511,42267,920,Sunday,5,0.8,0.930555556,0.74,34.26,2.1599533,House,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+512,42294,1017,Saturday,2,3.4,0.930555556,3,10.26,29.2397661,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+513,42204,719,Sunday,6,0.9,0.929861111,3,16.79,17.8677784,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+514,42267,920,Sunday,2,2.5,0.929861111,0.5,8.83,5.6625142,Apartment,Male,Cash,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+515,42251,904,Friday,1,2.5,0.928472222,5.4,16.6,32.5301205,House,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Sep
+516,42286,1009,Friday,1,2.5,0.928472222,5,31.74,15.7529931,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+517,42286,1009,Friday,1,2.1,0.928472222,0,17.84,0,House,Female,-,Credit,Angel,North End,43.633105,-116.208304,Oct
+518,42265,918,Friday,7,3,0.927777778,4.28,15.72,27.2264631,Business,Female,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+519,42210,725,Saturday,5,1.7,0.927083333,4,22.15,18.0586907,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Jul
+520,42232,816,Sunday,1,2,0.927083333,6,29.28,20.4918033,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+521,42230,814,Friday,1,2.5,0.926388889,4.22,16.78,25.1489869,House,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Aug
+522,42253,906,Sunday,3,2.3,0.925694444,0,14.65,0,Apartment,Female,-,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+523,42216,731,Friday,7,2.4,0.924305556,1,22.08,4.5289855,House,Male,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Jul
+524,42265,918,Friday,3,3.2,0.922222222,5,18.24,27.4122807,Apartment,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Sep
+525,42217,801,Saturday,1,2.9,0.921527778,2.56,16.12,15.8808933,Apartment,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+526,42279,1002,Friday,3,2.9,0.921527778,0.12,19.58,0.6128703,Business,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+527,42213,728,Tuesday,1,3.8,0.920833333,3,13.3,22.556391,Apartment,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+528,42273,926,Saturday,3,2.7,0.920138889,2.35,14.65,16.0409556,Hotel,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+529,42246,830,Sunday,5,1.4,0.919444444,1.56,28.44,5.4852321,House,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+530,42258,911,Friday,8,7.6,0.919444444,1.33,23.67,5.6189269,House,Female,Cash,Cash,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+531,42286,1009,Friday,6,1.1,0.917361111,2,15.44,12.9533679,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+532,42213,728,Tuesday,1,3.7,0.916666667,4,14.65,27.3037543,Apartment,Male,Cash,Credit,Angel,North End,43.633105,-116.208304,Jul
+533,42308,1031,Saturday,9,1.3,0.916666667,10,31.34,31.9081047,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+534,42259,912,Saturday,6,0.2,0.915972222,2,19.94,10.0300903,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+535,42261,914,Monday,5,1.1,0.915277778,0,21.43,0,House,Male,-,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+536,42272,925,Friday,7,3.3,0.914583333,2,14.65,13.6518771,House,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+537,42274,927,Sunday,1,2.7,0.914583333,4.88,10.12,48.2213439,House,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Sep
+538,42233,817,Monday,3,2.3,0.913194444,0,16.78,0,Apartment,Male,-,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+539,42265,918,Friday,3,2.1,0.9125,1.52,11.48,13.2404181,Apartment,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Sep
+540,42287,1010,Saturday,5,1.5,0.9125,3,16.24,18.4729064,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+541,42287,1010,Saturday,3,2.2,0.9125,2.75,14.25,19.2982456,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+542,42294,1017,Saturday,5,1.1,0.9125,4,16.78,23.8379023,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Oct
+543,42239,823,Sunday,3,2.3,0.911805556,3,11.48,26.1324042,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+544,42281,1004,Sunday,6,1.3,0.911805556,1,21,4.7619048,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+545,42302,1025,Sunday,10,4.8,0.911805556,-0.13,20.18,-0.6442022,House,Male,-,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+546,42307,1030,Friday,9,0.8,0.910416667,0,0,0,Apartment,Female,-,-,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+547,42206,721,Tuesday,1,3.7,0.909722222,5,19.3,25.9067358,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+548,42300,1023,Friday,6,1,0.909722222,1.45,23.54,6.1597281,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+549,42230,814,Friday,5,1.7,0.909027778,4,15.18,26.3504611,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+550,42253,906,Sunday,3,2.7,0.909027778,0.33,23.67,1.3941698,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Sep
+551,42254,907,Monday,1,3.5,0.909027778,3,14.65,20.4778157,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+552,42265,918,Friday,5,0.9,0.909027778,4,26.78,14.9365198,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+553,42279,1002,Friday,2,2,0.909027778,2,13.97,14.3163923,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+554,42286,1009,Friday,10,4.2,0.908333333,4.28,15.72,27.2264631,House,Male,Cash,Cash,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+555,42307,1030,Friday,1,3.2,0.908333333,4,10.12,39.5256917,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+556,42287,1010,Saturday,9,0.4,0.907638889,3,20.36,14.7347741,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+557,42204,719,Sunday,2,2.9,0.905555556,3,21.43,13.9990667,Apartment,Male,Cash,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+558,42225,809,Sunday,9,0.9,0.905555556,3,13.3,22.556391,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+559,42266,919,Saturday,5,1.2,0.905555556,2.69,17.31,15.5401502,House,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+560,42273,926,Saturday,1,3.3,0.905555556,1.13,8.83,12.797282,Apartment,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Sep
+561,42210,725,Saturday,1,3.9,0.904861111,3,16.24,18.4729064,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Jul
+562,42265,918,Friday,6,1.7,0.904166667,5,12.87,38.8500389,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+563,42294,1017,Saturday,1,2.5,0.904166667,3.46,12.54,27.5917065,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+564,42232,816,Sunday,1,3,0.902777778,2.22,25.78,8.6113266,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+565,42293,1016,Friday,1,3.4,0.902083333,3,13.97,21.4745884,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+566,42293,1016,Friday,6,1.4,0.900694444,3,18.83,15.9320234,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+567,42273,926,Saturday,1,2.3,0.9,5,28.44,17.580872,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+568,42232,816,Sunday,1,3.2,0.899305556,4,19.96,20.0400802,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+569,42233,817,Monday,9,0.0738636,0.899305556,2,14.88,13.4408602,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+570,42251,904,Friday,6,1.2,0.898611111,4,25.6,15.625,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+571,42254,907,Monday,1,2.1,0.898611111,2.05,40.95,5.006105,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Sep
+572,42272,925,Friday,5,0.6,0.898611111,1.86,23.14,8.0380294,House,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+573,42274,927,Sunday,3,2,0.898611111,5.7,19.3,29.5336788,Apartment,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Sep
+574,42288,1011,Sunday,3,2.2,0.898611111,0,22.97,0,Apartment,Male,-,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+575,42307,1030,Friday,9,1.7,0.898611111,5,17.69,28.2645562,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+576,42244,828,Friday,1,3.4,0.897916667,3,15.44,19.4300518,Apartment,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+577,42197,712,Sunday,8,7.5,0.897222222,5.97,31.03,19.2394457,House,Female,Cash,Cash,Angel,Hidden Springs,43.723879,-116.255046,Jul
+578,42232,816,Sunday,2,2.6,0.897222222,3.31,26.69,12.4016486,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+579,42261,914,Monday,3,2.3,0.897222222,2,23.01,8.6918731,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+580,42258,911,Friday,10,3.3,0.896527778,4,38.81,10.306622,House,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+581,42267,920,Sunday,2,3,0.896527778,0,14.65,0,Apartment,Female,-,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+582,42295,1018,Sunday,6,0.2,0.896527778,0,13.68,0,Apartment,Female,-,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+583,42204,719,Sunday,9,0.3,0.895833333,3.18,22.82,13.9351446,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+584,42259,912,Saturday,2,2.7,0.895138889,0,0,0,Hotel,Female,-,-,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+585,42213,728,Tuesday,1,2.1,0.894444444,2.63,20.37,12.9111438,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+586,42286,1009,Friday,6,2.5,0.894444444,1.06,5.94,17.8451178,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+587,42245,829,Saturday,2,4.8,0.893055556,2,18.9,10.5820106,Apartment,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+588,42267,920,Sunday,1,2.7,0.892361111,2.46,12.54,19.6172249,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Sep
+589,42274,927,Sunday,1,3.7,0.892361111,0,19.13,0,Apartment,Male,-,Credit,Angel,North End,43.633105,-116.208304,Sep
+590,42259,912,Saturday,2,2.7,0.890972222,4.73,15.27,30.9757695,Hotel,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+591,42286,1009,Friday,3,2.2,0.890972222,1.92,22.08,8.6956522,House,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+592,42287,1010,Saturday,3,3.6,0.890972222,2.92,22.08,13.2246377,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+593,42274,927,Sunday,10,3,0.890277778,2.34,10.26,22.8070175,Apartment,Male,Cash,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+594,42213,728,Tuesday,6,0.3,0.889583333,0.14,11.86,1.1804384,Apartment,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Jul
+595,42206,721,Tuesday,1,3.1,0.888888889,2,21,9.5238095,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Jul
+596,42245,829,Saturday,5,0.7,0.888888889,1,15.38,6.5019506,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+597,42288,1011,Sunday,5,1.5,0.888888889,1,11.71,8.5397096,Apartment,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+598,42294,1017,Saturday,1,2,0.888888889,7,32.36,21.631644,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+599,42258,911,Friday,7,2.8,0.888194444,6,21,28.5714286,House,Male,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+600,42265,918,Friday,3,2.2,0.888194444,0,0,0,Apartment,Female,-,-,Sammie,Garden City,43.633857,-116.24628,Sep
+601,42273,926,Saturday,5,1.1,0.888194444,4.56,15.44,29.5336788,Apartment,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+602,42281,1004,Sunday,7,3.5,0.888194444,1.17,8.83,13.2502831,House,Male,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+603,42294,1017,Saturday,2,2.7,0.888194444,10,34.77,28.7604257,Apartment,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+604,42196,711,Saturday,3,3.2,0.8875,3,15.27,19.6463654,Apartment,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+605,42233,817,Monday,1,3,0.886805556,2.13,12.87,16.5501166,House,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Aug
+606,42294,1017,Saturday,3,2.7,0.886805556,3,15.71,19.0961171,House,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+607,42300,1023,Friday,4,2.6,0.886111111,2,23.65,8.4566596,House,Male,Cash,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+608,42302,1025,Sunday,1,3.1,0.886111111,5,23,21.7391304,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+609,42239,823,Sunday,1,2.7,0.884722222,4,21.55,18.5614849,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+610,42251,904,Friday,10,3.9,0.884722222,5,33.2,15.060241,Apartment,Female,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+611,42273,926,Saturday,2,2.9,0.884722222,4,16.78,23.8379023,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+612,42274,927,Sunday,7,3,0.884722222,4.73,15.27,30.9757695,Apartment,Male,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+613,42275,928,Monday,2,3,0.884722222,3.12,15.88,19.6473552,Business,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+614,42225,809,Sunday,6,0.8,0.884027778,5,24.69,20.2511138,Apartment,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+615,42239,823,Sunday,6,0.8,0.884027778,3,27.36,10.9649123,Apartment,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+616,42246,830,Sunday,6,0.2,0.884027778,4.47,35.92,12.4443207,Apartment,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+617,42296,1019,Monday,1,2.8,0.883333333,7.37,21.63,34.0730467,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+618,42217,801,Saturday,10,4.2,0.882638889,5,15.03,33.2667997,House,Female,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+619,42293,1016,Friday,5,1,0.882638889,1.4,13.6,10.2941176,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+620,42213,728,Tuesday,5,0.8,0.881944444,4.92,4.92,100,House,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Jul
+621,42279,1002,Friday,3,2.2,0.881944444,0,28.44,0,Apartment,Female,-,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+622,42293,1016,Friday,6,0.7,0.881944444,6,38.76,15.4798762,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+623,42204,719,Sunday,5,0.7,0.880555556,3.46,14.54,23.7964237,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+624,42217,801,Saturday,5,1.5,0.880555556,3,14.65,20.4778157,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+625,42251,904,Friday,6,2.7,0.880555556,4.29,15.71,27.3074475,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+626,42253,906,Sunday,7,3.5,0.880555556,5.69,26.31,21.6267579,Apartment,Male,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+627,42274,927,Sunday,5,1.7,0.879861111,5.19,17.81,29.1409321,Apartment,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+628,42272,925,Friday,3,2.8,0.879166667,5,24.72,20.2265372,Business,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Sep
+629,42281,1004,Sunday,6,1.7,0.879166667,2,27.78,7.199424,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+630,42254,907,Monday,6,1.5,0.878472222,5,16.78,29.7973778,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+631,42287,1010,Saturday,3,2.2,0.878472222,4,18.9,21.1640212,House,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+632,42272,925,Friday,1,2.7,0.877777778,4.56,15.44,29.5336788,Apartment,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Sep
+633,42197,712,Sunday,10,2.4,0.877083333,5.04,28.96,17.4033149,Apartment,Male,Cash,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Jul
+634,42204,719,Sunday,5,0.7,0.877083333,4.73,34.27,13.8021593,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+635,42232,816,Sunday,2,2.6,0.876388889,1.25,23.75,5.2631579,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+636,42244,828,Friday,6,1.3,0.876388889,0,22.15,0,House,Male,-,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+637,42267,920,Sunday,5,0.9,0.876388889,2,16.78,11.9189511,Business,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+638,42230,814,Friday,8,7.3,0.875694444,4,26.94,14.8478099,House,Female,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Aug
+639,42223,807,Friday,9,0.0708,0.875,4,38.46,10.400416,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+640,42295,1018,Sunday,3,3.1,0.875,1,10.26,9.7465887,Apartment,Female,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+641,42196,711,Saturday,6,1.4,0.873611111,7.3,33.7,21.6617211,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+642,42233,817,Monday,6,1.7,0.873611111,4.56,27.44,16.6180758,Apartment,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+643,42289,1012,Monday,9,1.3,0.873611111,5,22.08,22.6449275,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+644,42265,918,Friday,1,2.6,0.872916667,2.05,13.95,14.6953405,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Sep
+645,42302,1025,Sunday,3,2.2,0.872916667,0.58,19.42,2.9866117,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+646,42246,830,Sunday,3,2.2,0.872222222,3.23,16.77,19.2605844,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+647,42266,919,Saturday,8,8.2,0.871527778,6.59,28.41,23.1960577,House,Male,Credit,Credit,Angel,Hidden Springs,43.723879,-116.255046,Sep
+648,42273,926,Saturday,6,1.3,0.871527778,3,27.35,10.9689214,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+649,42294,1017,Saturday,5,0.8,0.871527778,5,32.14,15.5569384,House,Male,Cash,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Oct
+650,42273,926,Saturday,6,0.9,0.870833333,3,14.1,21.2765957,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+651,42239,823,Sunday,2,2.8,0.870138889,4,35.52,11.2612613,House,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+652,42293,1016,Friday,5,1.4,0.870138889,3.32,31.68,10.479798,House,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Oct
+653,42302,1025,Sunday,9,0.0702652,0.870138889,3,15.71,19.0961171,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+654,42259,912,Saturday,3,2.2,0.869444444,5,38.47,12.9971406,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+655,42261,914,Monday,1,1.9,0.869444444,1.55,14.65,10.5802048,House,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Sep
+656,42233,817,Monday,6,0.3,0.86875,3,13.06,22.9709035,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+657,42266,919,Saturday,8,7.2,0.86875,4,20.71,19.3143409,House,Male,Credit,Credit,Angel,Hidden Springs,43.723879,-116.255046,Sep
+658,42307,1030,Friday,1,3.1,0.86875,3.22,20.78,15.4956689,Apartment,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Oct
+659,42210,725,Saturday,6,2.2,0.868055556,2.06,15.94,12.923463,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Jul
+660,42251,904,Friday,1,2.2,0.868055556,2.5,19.25,12.987013,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+661,42309,1101,Sunday,10,3.8,0.868055556,5,16.47,30.3582271,House,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Nov
+662,42225,809,Sunday,9,2.3,0.867361111,1,14.65,6.8259386,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+663,42272,925,Friday,1,3.5,0.867361111,3,25.23,11.8906064,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+664,42294,1017,Saturday,5,1.7,0.867361111,5,24.03,20.8073242,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Oct
+665,42216,731,Friday,8,7.7,0.866666667,11,89,12.3595506,House,Female,Cash,Cash,Sammie,Hidden Springs,43.723879,-116.255046,Jul
+666,42274,927,Sunday,3,2.5,0.866666667,5.12,29.88,17.1352075,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+667,42286,1009,Friday,6,1,0.866666667,5,21.55,23.2018561,Apartment,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+668,42286,1009,Friday,6,1.5,0.866666667,3.2,22.8,14.0350877,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+669,42267,920,Sunday,6,1.2,0.865972222,2,14.65,13.6518771,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+670,42288,1011,Sunday,3,2.6,0.865972222,10,53.83,18.5770017,House,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+671,42233,817,Monday,4,2.7,0.865277778,4,22.92,17.452007,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+672,42251,904,Friday,4,2.1,0.865277778,4,14.65,27.3037543,House,Male,Cash,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Sep
+673,42295,1018,Sunday,5,2.1,0.865277778,5,18.94,26.3991552,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Oct
+674,42293,1016,Friday,7,3.5,0.864583333,0.93,16.07,5.7871811,House,Male,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+675,42253,906,Sunday,6,1.7,0.863888889,0,24.45,0,House,Male,-,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+676,42303,1026,Monday,1,3.3,0.863888889,2,14.65,13.6518771,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+677,42197,712,Sunday,10,2.5,0.863194444,0,15.27,0,Apartment,Female,-,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Jul
+678,42204,719,Sunday,3,2.2,0.863194444,3.59,24.41,14.7070873,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Jul
+679,42296,1019,Monday,7,3.6,0.863194444,5,19.27,25.947068,Apartment,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+680,42204,719,Sunday,3,2.2,0.8625,3,28.44,10.5485232,Apartment,Female,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+681,42213,728,Tuesday,10,4.5,0.8625,4,12.87,31.0800311,House,Male,Cash,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Jul
+682,42244,828,Friday,7,3,0.8625,5.87,41.13,14.2718211,Apartment,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+683,42267,920,Sunday,10,4.9,0.8625,0.13,12.87,1.010101,House,Female,Cash,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+684,42246,830,Sunday,3,2.4,0.861805556,1.75,18.25,9.5890411,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+685,42265,918,Friday,2,2.2,0.861805556,2,15.71,12.7307447,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+686,42217,801,Saturday,10,3.8,0.860416667,5.43,48.57,11.1797406,House,Male,Cash,Cash,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+687,42302,1025,Sunday,9,0.0732955,0.860416667,2,14.01,14.2755175,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+688,42309,1101,Sunday,6,0.8,0.860416667,2,24.71,8.0938891,Apartment,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Nov
+689,42210,725,Saturday,9,0.4,0.859722222,5.25,9.77,53.7359263,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+690,42206,721,Tuesday,6,0.085,0.859027778,2.5,18.9,13.2275132,House,Female,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+691,42261,914,Monday,6,0.8,0.859027778,3,26.17,11.4635078,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+692,42275,928,Monday,1,2.6,0.859027778,1,8.83,11.3250283,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+693,42266,919,Saturday,9,1,0.858333333,3.27,16.73,19.5457262,House,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+694,42253,906,Sunday,5,1.6,0.857638889,2,25.66,7.7942323,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+695,42266,919,Saturday,2,2.5,0.857638889,2,19.9,10.0502513,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+696,42272,925,Friday,7,3.1,0.857638889,3.97,39.03,10.1716628,House,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+697,42279,1002,Friday,4,2.7,0.857638889,4,27.34,14.6305779,House,Female,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+698,42246,830,Sunday,3,3.2,0.856944444,5,15.72,31.8066158,House,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+699,42267,920,Sunday,6,1.3,0.856944444,2,21.63,9.246417,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+700,42308,1031,Saturday,3,2.1,0.856944444,0.22,16.78,1.3110846,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+701,42254,907,Monday,1,2.5,0.85625,4.16,17.84,23.3183857,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Sep
+702,42258,911,Friday,2,3.5,0.85625,6.76,18.24,37.0614035,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+703,42267,920,Sunday,10,4.1,0.85625,4,25.58,15.6372166,Apartment,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+704,42294,1017,Saturday,6,0.3,0.85625,5.06,14.94,33.8688086,Apartment,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+705,42238,822,Saturday,1,1.9,0.855555556,2,20.57,9.7228974,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+706,42268,921,Monday,6,0.2,0.855555556,5,22.01,22.7169468,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+707,42223,807,Friday,9,0.3,0.854861111,2,12.01,16.6527893,House,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+708,42261,914,Monday,1,3.2,0.854861111,4.55,26.45,17.2022684,House,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Sep
+709,42294,1017,Saturday,2,2.4,0.854861111,4,47.49,8.4228259,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+710,42302,1025,Sunday,7,3,0.854861111,2,15.27,13.0975769,Apartment,Male,Cash,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+711,42204,719,Sunday,9,0.6,0.854166667,6,28.94,20.7325501,House,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+712,42233,817,Monday,2,3,0.854166667,4.13,12.87,32.0901321,Hotel,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+713,42307,1030,Friday,3,2.1,0.854166667,2,32.67,6.1218243,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+714,42210,725,Saturday,6,1.1,0.852777778,4.73,15.27,30.9757695,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Jul
+715,42246,830,Sunday,6,2.5,0.852777778,2,14.65,13.6518771,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+716,42288,1011,Sunday,3,2.3,0.852777778,2,18.44,10.845987,Apartment,Male,Cash,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+717,42216,731,Friday,6,1,0.852083333,3.05,17.15,17.7842566,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Jul
+718,42230,814,Friday,7,3.2,0.851388889,4,26.83,14.9086843,House,Male,Cash,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+719,42260,913,Sunday,2,2.7,0.851388889,2.62,27.38,9.5690285,Hotel,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+720,42265,918,Friday,5,1.2,0.851388889,2,19.8,10.1010101,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+721,42232,816,Sunday,3,2.3,0.850694444,3.7,26.3,14.0684411,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+722,42259,912,Saturday,8,7.2,0.850694444,0,23.48,0,House,Male,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+723,42265,918,Friday,3,2.4,0.850694444,2.37,21.63,10.9570042,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+724,42239,823,Sunday,1,2.1,0.85,3,14.1,21.2765957,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+725,42239,823,Sunday,2,2.3,0.85,4.66,24.34,19.1454396,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+726,42253,906,Sunday,3,3.2,0.85,3.56,28.44,12.5175809,Hotel,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+727,42272,925,Friday,3,3,0.849305556,3,17.83,16.8255749,Business,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Sep
+728,42196,711,Saturday,2,2.9,0.848611111,1,19.96,5.01002,House,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+729,42232,816,Sunday,3,1.9,0.848611111,3,19.94,15.0451354,Apartment,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+730,42273,926,Saturday,10,4.2,0.848611111,2,18.98,10.5374078,House,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+731,42274,927,Sunday,6,0.6,0.848611111,3,23.12,12.9757785,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+732,42301,1024,Saturday,2,2.7,0.848611111,3,11.98,25.0417362,Hotel,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+733,42287,1010,Saturday,3,2.9,0.847916667,2.1,32.9,6.3829787,Hotel,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+734,42287,1010,Saturday,9,0.4,0.847916667,5,17.18,29.1036088,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+735,42288,1011,Sunday,1,3.3,0.847916667,2,15.72,12.7226463,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+736,42289,1012,Monday,1,4.2,0.847916667,3.22,16.78,19.1895113,Apartment,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+737,42300,1023,Friday,3,2.1,0.847916667,5,29.5,16.9491525,House,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+738,42245,829,Saturday,3,3,0.847222222,2,17.28,11.5740741,Apartment,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+739,42266,919,Saturday,5,0.9,0.847222222,4,16.77,23.8521169,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+740,42217,801,Saturday,6,1,0.846527778,2,18.61,10.7469103,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+741,42233,817,Monday,10,5.2,0.846527778,5.17,20.83,24.8199712,House,Male,Cash,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+742,42274,927,Sunday,2,2.8,0.846527778,4,33.03,12.1102028,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+743,42197,712,Sunday,7,3.4,0.845833333,2.35,14.65,16.0409556,Apartment,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Jul
+744,42274,927,Sunday,3,2.4,0.845833333,4.48,25.52,17.5548589,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+745,42287,1010,Saturday,5,1.9,0.845833333,2,21,9.5238095,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+746,42228,812,Wednesday,2,3.6,0.845138889,3,18.9,15.8730159,Hotel,Female,Cash,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+747,42245,829,Saturday,3,3.1,0.845138889,2,22.08,9.057971,House,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+748,42300,1023,Friday,3,2.2,0.845138889,5,27.16,18.4094256,House,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+749,42239,823,Sunday,6,1.4,0.844444444,2,32.69,6.1180789,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+750,42275,928,Monday,7,3.5,0.844444444,3,18.9,15.8730159,Apartment,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+751,42296,1019,Monday,3,2.2,0.844444444,0,27.35,0,Apartment,Female,-,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+752,42225,809,Sunday,1,2.1,0.843055556,4,16.5,24.2424242,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+753,42307,1030,Friday,3,2.6,0.843055556,2.16,17.84,12.1076233,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+754,42213,728,Tuesday,2,2.2,0.842361111,2,35.2,5.6818182,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+755,42261,914,Monday,6,1,0.842361111,5.1,17.15,29.7376093,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+756,42279,1002,Friday,3,2.3,0.842361111,2.32,20.68,11.2185687,House,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+757,42204,719,Sunday,9,2.4,0.841666667,7.82,17.18,45.5180442,Apartment,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+758,42232,816,Sunday,6,1.7,0.841666667,2.12,18.88,11.2288136,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+759,42268,921,Monday,1,2.4,0.841666667,3.08,12.92,23.8390093,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+760,42273,926,Saturday,1,3.6,0.841666667,2.98,21.02,14.1769743,Apartment,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Sep
+761,42286,1009,Friday,3,2,0.841666667,2.16,17.84,12.1076233,Apartment,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+762,42286,1009,Friday,6,1.4,0.841666667,3,15.71,19.0961171,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+763,42233,817,Monday,3,2.4,0.840972222,3.87,16.13,23.9925604,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+764,42294,1017,Saturday,6,2.6,0.840972222,3.47,39.53,8.7781432,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+765,42272,925,Friday,9,1.2,0.840277778,6,36.61,16.3889648,House,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+766,42281,1004,Sunday,5,1,0.840277778,0.92,22.08,4.1666667,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+767,42295,1018,Sunday,6,0.9,0.840277778,1,20.49,4.8804295,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+768,42253,906,Sunday,7,3.4,0.839583333,5,14.65,34.1296928,Apartment,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+769,42273,926,Saturday,5,1.5,0.839583333,2,31.49,6.3512226,House,Female,Cash,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+770,42232,816,Sunday,3,1.4,0.838888889,2,18.68,10.7066381,Apartment,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+771,42273,926,Saturday,4,1.8,0.838888889,1.52,11.48,13.2404181,House,Male,Cash,Cash,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Sep
+772,42309,1101,Sunday,2,2.3,0.838888889,3.39,24.61,13.7748883,House,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Nov
+773,42251,904,Friday,1,3.8,0.838194444,5,20.49,24.4021474,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+774,42254,907,Monday,5,1.2,0.838194444,5,21.43,23.3317779,Apartment,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+775,42246,830,Sunday,9,0.4,0.8375,6,27.25,22.0183486,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+776,42302,1025,Sunday,1,2.8,0.8375,1.23,16.77,7.3345259,Apartment,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Oct
+777,42213,728,Tuesday,3,1.6,0.836805556,4,13.95,28.6738351,House,Female,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Jul
+778,42239,823,Sunday,9,1.2,0.836111111,2,21,9.5238095,Apartment,Female,Cash,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+779,42253,906,Sunday,6,0.9,0.836111111,2,20.22,9.8911968,House,Male,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+780,42258,911,Friday,6,1.8,0.836111111,1,15.71,6.3653724,House,Male,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+781,42293,1016,Friday,6,2.7,0.836111111,3,34.36,8.7310827,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+782,42295,1018,Sunday,3,2.7,0.836111111,1.73,15.27,11.3294041,Hotel,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+783,42302,1025,Sunday,1,3.3,0.836111111,3.61,14.39,25.0868659,Apartment,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+784,42197,712,Sunday,9,0.4,0.834722222,2,22.06,9.0661831,Apartment,Male,Cash,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+785,42232,816,Sunday,6,2.3,0.834722222,6,12.02,49.9168053,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+786,42246,830,Sunday,6,1,0.834722222,10,58.61,17.0619348,Apartment,Female,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+787,42246,830,Sunday,3,3.3,0.834722222,2,17.42,11.4810563,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+788,42307,1030,Friday,7,2.9,0.834722222,4,18.88,21.1864407,House,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Oct
+789,42308,1031,Saturday,2,2.3,0.834722222,3,9.89,30.3336704,House,Male,Cash,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+790,42225,809,Sunday,1,1.8,0.834027778,3.52,11.48,30.6620209,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+791,42251,904,Friday,6,1,0.834027778,3,19.68,15.2439024,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+792,42267,920,Sunday,9,0.3,0.834027778,5,29.47,16.9664065,Apartment,Female,Cash,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+793,42274,927,Sunday,6,2.4,0.833333333,3,12.87,23.3100233,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+794,42245,829,Saturday,2,2.3,0.832638889,3.82,17.18,22.2351572,House,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+795,42223,807,Friday,9,0.8,0.831944444,4,32.67,12.2436486,House,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+796,42238,822,Saturday,1,4.5,0.831944444,5.1,38.9,13.1105398,Apartment,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Aug
+797,42246,830,Sunday,6,0.9,0.831944444,6.7,13.3,50.3759398,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+798,42252,905,Saturday,3,2.1,0.831944444,0,0,0,Apartment,Male,-,-,Sammie,Garden City,43.633857,-116.24628,Sep
+799,42232,816,Sunday,3,2.1,0.83125,0,0,0,House,Female,-,-,Sammie,Garden City,43.633857,-116.24628,Aug
+800,42245,829,Saturday,3,2.9,0.83125,2.08,25.92,8.0246914,Hotel,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+801,42274,927,Sunday,7,3,0.83125,1,13.39,7.4682599,Apartment,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+802,42204,719,Sunday,6,0.3,0.830555556,1,8.83,11.3250283,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+803,42210,725,Saturday,7,2.7,0.830555556,2.4,16.6,14.4578313,Apartment,Female,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Jul
+804,42251,904,Friday,8,8.3,0.830555556,5,28.97,17.2592337,House,Male,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+805,42293,1016,Friday,6,1.1,0.830555556,3,15.72,19.0839695,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+806,42267,920,Sunday,5,1.1,0.829861111,3.05,13.95,21.8637993,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+807,42293,1016,Friday,6,1.2,0.829861111,3,28.16,10.6534091,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+808,42308,1031,Saturday,9,0.8,0.829861111,1.34,14.66,9.1405184,House,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+809,42266,919,Saturday,3,1.5,0.829166667,4,35.41,11.296244,House,Female,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+810,42268,921,Monday,6,2,0.829166667,2,15.71,12.7307447,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+811,42287,1010,Saturday,3,2.8,0.829166667,3.46,24.54,14.0994295,Hotel,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+812,42267,920,Sunday,2,2.5,0.828472222,4.3,33.7,12.7596439,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+813,42268,921,Monday,6,1.4,0.828472222,5,28.25,17.699115,Apartment,Female,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+814,42286,1009,Friday,9,0.6,0.828472222,4,15.97,25.0469631,House,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+815,42294,1017,Saturday,3,2.1,0.828472222,6.1,18.9,32.2751323,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+816,42210,725,Saturday,7,2.7,0.827777778,6,35.1,17.0940171,Apartment,Female,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Jul
+817,42253,906,Sunday,7,3,0.827777778,1,20.33,4.9188392,Apartment,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+818,42266,919,Saturday,1,3.6,0.827777778,2,14.65,13.6518771,Apartment,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+819,42268,921,Monday,1,3.7,0.827777778,5,97.18,5.1450916,Business,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+820,42232,816,Sunday,4,1.9,0.827083333,2.55,18.45,13.8211382,House,Female,Cash,Cash,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+821,42244,828,Friday,4,4.4,0.827083333,3,25.87,11.5964438,House,Female,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+822,42289,1012,Monday,2,2.1,0.827083333,0,32.9,0,House,Male,-,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+823,42300,1023,Friday,2,2.6,0.827083333,5,18.1,27.6243094,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+824,42303,1026,Monday,3,3.2,0.827083333,3,19.05,15.7480315,Business,Female,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+825,42239,823,Sunday,3,2.7,0.826388889,3,21,14.2857143,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+826,42246,830,Sunday,5,0.6,0.826388889,0,23.14,0,Business,Female,-,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+827,42261,914,Monday,6,1.1,0.826388889,3.24,11.86,27.3187184,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+828,42274,927,Sunday,10,2.9,0.826388889,2,15.18,13.1752306,Apartment,Female,Credit,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+829,42197,712,Sunday,2,2.6,0.825694444,2.35,14.65,16.0409556,House,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+830,42265,918,Friday,6,2.3,0.825694444,2.52,23.48,10.7325383,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+831,42301,1024,Saturday,7,2.5,0.825694444,3,23.14,12.9645635,Apartment,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Oct
+832,42302,1025,Sunday,3,2.4,0.825694444,3.76,34.24,10.9813084,House,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+833,42265,918,Friday,4,1.8,0.825,3,26.18,11.4591291,House,Female,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Sep
+834,42279,1002,Friday,1,2.2,0.824305556,3,22.08,13.5869565,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+835,42287,1010,Saturday,3,3.2,0.824305556,2.46,12.54,19.6172249,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+836,42307,1030,Friday,4,1.8,0.824305556,2,15.27,13.0975769,Business,Male,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+837,42196,711,Saturday,1,0.9,0.823611111,2,19.75,10.1265823,Apartment,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+838,42213,728,Tuesday,3,2.1,0.823611111,0.2,22.8,0.877193,Apartment,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Jul
+839,42260,913,Sunday,1,3.3,0.823611111,4.31,19.27,22.3663726,Apartment,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+840,42288,1011,Sunday,10,3.8,0.823611111,6,23.14,25.9291271,Apartment,Female,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+841,42260,913,Sunday,1,2.7,0.822916667,6,28.67,20.9277991,Apartment,Male,Cash,Credit,Sammie,North End,43.633105,-116.208304,Sep
+842,42261,914,Monday,5,0.9,0.822916667,2,15.72,12.7226463,House,Female,Cash,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+843,42281,1004,Sunday,5,1.2,0.822916667,7,40.61,17.2371337,House,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+844,42233,817,Monday,7,3.7,0.822222222,1.07,24.93,4.2920176,House,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+845,42293,1016,Friday,4,1.9,0.822222222,2,20.57,9.7228974,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+846,42230,814,Friday,1,2.5,0.821527778,2,13.24,15.1057402,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+847,42239,823,Sunday,2,3.2,0.821527778,3,12.01,24.979184,Hotel,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+848,42254,907,Monday,6,1.1,0.821527778,4,16.77,23.8521169,Hotel,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+849,42309,1101,Sunday,2,3.5,0.821527778,3.05,18.2,16.7582418,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Nov
+850,42239,823,Sunday,2,2.4,0.820833333,2,14.65,13.6518771,House,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+851,42282,1005,Monday,4,3.6,0.820833333,4,35.54,11.254924,House,Male,Cash,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+852,42206,721,Tuesday,3,2.3,0.820138889,10,34.65,28.8600289,House,Female,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+853,42272,925,Friday,3,3,0.819444444,2.5,18.9,13.2275132,Hotel,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Sep
+854,42300,1023,Friday,4,2.2,0.819444444,4,26.84,14.9031297,House,Male,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+855,42259,912,Saturday,10,4.5,0.81875,5,24.94,20.0481155,House,Female,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+856,42275,928,Monday,7,3.7,0.81875,2,13.95,14.3369176,Apartment,Male,Cash,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+857,42294,1017,Saturday,1,4.1,0.81875,2,20.03,9.9850225,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+858,42225,809,Sunday,5,0.7,0.818055556,0,23.14,0,Apartment,Female,-,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+859,42228,812,Wednesday,10,3.7,0.818055556,3.23,16.77,19.2605844,House,Male,Cash,Cash,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+860,42246,830,Sunday,10,3.1,0.818055556,3,24.8,12.0967742,Apartment,Male,Credit,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+861,42287,1010,Saturday,1,4.5,0.818055556,5,28.05,17.8253119,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+862,42231,815,Saturday,4,5.5,0.817361111,0,19.95,0,House,Male,-,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+863,42232,816,Sunday,5,0.8,0.817361111,0,24.2,0,House,Female,-,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+864,42274,927,Sunday,1,3.2,0.816666667,5,20.68,24.1779497,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+865,42274,927,Sunday,4,2.6,0.816666667,3,24.18,12.4069479,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Sep
+866,42293,1016,Friday,4,1.8,0.816666667,4.27,42.73,9.9929792,House,Female,Cash,Cash,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+867,42302,1025,Sunday,6,0.9,0.816666667,0,21.23,0,Apartment,Male,-,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+868,42267,920,Sunday,6,2.5,0.815972222,5,17.57,28.4575982,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+869,42293,1016,Friday,5,1.2,0.815972222,2.5,14.65,17.0648464,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+870,42295,1018,Sunday,9,0.6,0.815972222,2,13.6,14.7058824,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+871,42289,1012,Monday,3,2.2,0.815277778,5,19.5,25.6410256,House,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+872,42293,1016,Friday,5,0.9,0.815277778,7,42.72,16.3857678,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+873,42300,1023,Friday,3,2.2,0.815277778,3.22,16.78,19.1895113,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+874,42213,728,Tuesday,3,2.8,0.814583333,0,27.15,0,House,Male,-,Cash,Angel,Garden City,43.633857,-116.24628,Jul
+875,42253,906,Sunday,1,2.5,0.814583333,1.5,12.54,11.9617225,House,Female,Cash,Credit,Angel,North End,43.633105,-116.208304,Sep
+876,42253,906,Sunday,2,2.6,0.814583333,3,21.8,13.7614679,House,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+877,42287,1010,Saturday,3,2.2,0.814583333,4,21.01,19.0385531,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+878,42239,823,Sunday,6,0.2,0.813888889,3,22.08,13.5869565,Apartment,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+879,42274,927,Sunday,2,2.1,0.813888889,3,30.54,9.8231827,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+880,42286,1009,Friday,3,2.9,0.813888889,2,12.91,15.4918668,Business,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+881,42210,725,Saturday,3,2.2,0.813194444,5,19.41,25.7599176,House,Male,Cash,Credit,Sammie,Garden City,43.633857,-116.24628,Jul
+882,42223,807,Friday,9,1.3,0.813194444,4,39.89,10.0275758,House,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+883,42238,822,Saturday,2,2.6,0.813194444,2,11.86,16.8634064,Apartment,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+884,42294,1017,Saturday,1,3.6,0.813194444,0,23.67,0,House,Female,-,Credit,Sammie,North End,43.633105,-116.208304,Oct
+885,42204,719,Sunday,2,3.3,0.811805556,5,24.39,20.500205,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+886,42218,802,Sunday,7,3.5,0.811805556,1.74,10.26,16.9590643,House,Male,Cash,Cash,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+887,42233,817,Monday,2,3.5,0.811805556,6,15.71,38.1922342,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+888,42244,828,Friday,9,1,0.811805556,5,22.6,22.1238938,Apartment,Female,Cash,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+889,42286,1009,Friday,6,0.6,0.811805556,2,21.01,9.5192765,Apartment,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+890,42288,1011,Sunday,1,3.7,0.811805556,3.06,19.94,15.3460381,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+891,42206,721,Tuesday,6,0.4,0.811111111,5.8,24.2,23.9669421,Apartment,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+892,42245,829,Saturday,3,2.7,0.811111111,0,0,0,Hotel,Male,-,-,Sammie,Garden City,43.633857,-116.24628,Aug
+893,42245,829,Saturday,2,2.4,0.811111111,5,31.5,15.8730159,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+894,42265,918,Friday,9,0.4,0.810416667,5,21.69,23.0520977,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+895,42294,1017,Saturday,6,1.8,0.810416667,4.16,17.84,23.3183857,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+896,42213,728,Tuesday,3,3.3,0.809722222,4.17,20.83,20.0192031,House,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Jul
+897,42246,830,Sunday,5,0.5,0.809722222,5.06,19.94,25.3761284,Business,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+898,42273,926,Saturday,5,0.8,0.809722222,1,22.08,4.5289855,Apartment,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+899,42273,926,Saturday,1,3.6,0.809722222,3.4,16.6,20.4819277,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Sep
+900,42286,1009,Friday,6,0.9,0.809722222,4.58,15.42,29.7016861,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+901,42287,1010,Saturday,6,0.9,0.809722222,3,17.54,17.1037628,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+902,42295,1018,Sunday,3,1.8,0.809722222,0,0,0,House,Male,-,-,Angel,Garden City,43.633857,-116.24628,Oct
+903,42267,920,Sunday,3,2.2,0.809027778,3.57,21.43,16.6588894,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+904,42287,1010,Saturday,4,1.6,0.809027778,5,17.37,28.7852619,House,Male,Cash,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+905,42307,1030,Friday,1,2.5,0.809027778,2.82,17.18,16.4144354,House,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Oct
+906,42204,719,Sunday,6,0.3,0.808333333,1,15.71,6.3653724,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+907,42217,801,Saturday,1,2.9,0.808333333,7,45.36,15.4320988,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+908,42231,815,Saturday,9,0.3,0.808333333,3,22.08,13.5869565,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+909,42267,920,Sunday,9,0.6,0.808333333,0,18.88,0,Apartment,Male,-,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+910,42216,731,Friday,8,8.3,0.807638889,5,20.83,24.0038406,House,Male,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Jul
+911,42279,1002,Friday,3,2.1,0.807638889,3,15.71,19.0961171,Apartment,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+912,42213,728,Tuesday,1,2.7,0.806944444,3.84,36.16,10.619469,Apartment,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Jul
+913,42230,814,Friday,9,0.7,0.806944444,4.73,15.27,30.9757695,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+914,42233,817,Monday,9,0.5,0.806944444,5,16.78,29.7973778,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+915,42251,904,Friday,5,1.5,0.806944444,2.28,15.72,14.5038168,House,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+916,42260,913,Sunday,2,2.5,0.806944444,2,20.13,9.9354198,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+917,42293,1016,Friday,6,0.9,0.806944444,4,19.25,20.7792208,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+918,42301,1024,Saturday,2,2.1,0.806944444,2.94,22.06,13.3272892,House,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+919,42302,1025,Sunday,2,2.1,0.806944444,2.53,22.47,11.2594571,House,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+920,42225,809,Sunday,1,2.5,0.80625,3,14.65,20.4778157,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+921,42232,816,Sunday,2,2.4,0.80625,3,10.26,29.2397661,Apartment,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+922,42273,926,Saturday,8,8.4,0.80625,4,14.65,27.3037543,House,Male,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+923,42238,822,Saturday,3,2.1,0.805555556,6,39.54,15.1745068,Apartment,Female,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+924,42252,905,Saturday,9,0.9,0.805555556,5.53,19.47,28.4026708,House,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+925,42253,906,Sunday,1,2.3,0.805555556,2,19.13,10.4547831,House,Female,Cash,Credit,Sammie,North End,43.633105,-116.208304,Sep
+926,42296,1019,Monday,3,2.8,0.805555556,3,30,10,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+927,42261,914,Monday,10,2.9,0.804861111,5,16.95,29.4985251,Apartment,Male,Cash,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+928,42272,925,Friday,2,3.5,0.804861111,0.84,19.16,4.3841336,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+929,42273,926,Saturday,6,2.8,0.804861111,2,16.48,12.1359223,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+930,42210,725,Saturday,3,2.3,0.804166667,1.95,24.8,7.8629032,Apartment,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Jul
+931,42252,905,Saturday,6,1,0.804166667,5.2,24.8,20.9677419,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+932,42254,907,Monday,10,3.3,0.804166667,4,21,19.047619,House,Female,Cash,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+933,42267,920,Sunday,9,0.3,0.804166667,5,25.76,19.4099379,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+934,42288,1011,Sunday,9,1.2,0.804166667,6,21,28.5714286,House,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+935,42232,816,Sunday,2,0.9,0.803472222,5,25.86,19.3348801,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+936,42303,1026,Monday,8,5.4,0.803472222,5,17.81,28.0741157,House,Male,Credit,Credit,Angel,Hidden Springs,43.723879,-116.255046,Oct
+937,42265,918,Friday,9,0.4,0.802777778,2,22.99,8.6994345,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+938,42247,831,Monday,6,1,0.802083333,5,18.57,26.9251481,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+939,42282,1005,Monday,2,2.5,0.802083333,2,21.53,9.2893637,Apartment,Male,Cash,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+940,42294,1017,Saturday,9,0.5,0.802083333,5.52,24.84,22.2222222,Apartment,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+941,42296,1019,Monday,3,2.1,0.802083333,5.56,37.44,14.8504274,House,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+942,42217,801,Saturday,9,0.075,0.801388889,1.41,23.09,6.1065396,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+943,42244,828,Friday,3,2.7,0.801388889,3,21,14.2857143,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+944,42246,830,Sunday,6,2.1,0.800694444,0,15.18,0,House,Male,-,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+945,42267,920,Sunday,9,0.4,0.800694444,2,25.24,7.9239303,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+946,42197,712,Sunday,7,3.6,0.8,0,68.22,0,House,Female,-,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Jul
+947,42206,721,Tuesday,6,1.8,0.8,2,42.19,4.7404598,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+948,42251,904,Friday,2,3.5,0.8,5,22.43,22.2915738,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+949,42253,906,Sunday,6,1.8,0.8,5,65.27,7.6604872,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+950,42266,919,Saturday,5,1.3,0.8,3,54.99,5.4555374,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+951,42296,1019,Monday,3,3.2,0.8,4.14,13.86,29.8701299,Hotel,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+952,42228,812,Wednesday,7,3.4,0.799305556,3,47.46,6.3211125,Apartment,Male,Cash,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+953,42267,920,Sunday,10,2.2,0.799305556,5,27.69,18.0570603,House,Male,Credit,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+954,42286,1009,Friday,3,2.5,0.799305556,2.93,22.07,13.2759402,Apartment,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+955,42287,1010,Saturday,3,2.3,0.799305556,0.24,34.76,0.6904488,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+956,42211,726,Sunday,1,3.8,0.798611111,3,22.92,13.0890052,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Jul
+957,42246,830,Sunday,6,1.7,0.798611111,2,19.63,10.188487,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+958,42286,1009,Friday,3,3.3,0.798611111,1.99,26.01,7.6509035,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+959,42259,912,Saturday,3,2.2,0.797916667,9.28,24.72,37.5404531,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Sep
+960,42272,925,Friday,7,4.3,0.797916667,9.18,30.92,29.6895213,House,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+961,42275,928,Monday,6,1.6,0.797916667,4.28,26.27,16.2923487,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+962,42254,907,Monday,6,1.2,0.797222222,2.81,24.19,11.6163704,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+963,42261,914,Monday,9,0.5,0.797222222,2,22.06,9.0661831,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+964,42254,907,Monday,6,2.2,0.796527778,5,21,23.8095238,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+965,42281,1004,Sunday,3,2.1,0.796527778,5,16.08,31.0945274,House,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+966,42289,1012,Monday,5,0.7,0.796527778,2,23.53,8.4997875,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+967,42217,801,Saturday,6,0.3,0.795833333,2,14.65,13.6518771,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+968,42238,822,Saturday,3,2.1,0.795833333,5,15.18,32.9380764,Apartment,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+969,42247,831,Monday,1,2.5,0.795833333,4,19.13,20.9095661,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+970,42258,911,Friday,2,2.5,0.795833333,3.61,14.39,25.0868659,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+971,42281,1004,Sunday,1,3.4,0.795833333,7.94,22.06,35.9927471,Apartment,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+972,42301,1024,Saturday,3,2.1,0.795833333,0,28.44,0,Apartment,Male,-,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+973,42213,728,Tuesday,3,2.6,0.795138889,0,16.45,0,Apartment,Male,-,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+974,42218,802,Sunday,5,1.4,0.795138889,4,32,12.5,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+975,42245,829,Saturday,9,0.4,0.795138889,5.34,25.66,20.8106002,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+976,42265,918,Friday,9,0.4,0.795138889,2,28.75,6.9565217,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+977,42273,926,Saturday,2,2.7,0.795138889,8,43.25,18.4971098,Hotel,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+978,42274,927,Sunday,1,4.3,0.795138889,3,19.74,15.1975684,Apartment,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+979,42289,1012,Monday,9,0.0746212,0.795138889,4,18.39,21.7509516,Apartment,Male,Cash,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+980,42309,1101,Sunday,1,2.1,0.795138889,4.29,15.71,27.3074475,House,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Nov
+981,42239,823,Sunday,10,3.9,0.794444444,3.72,21.28,17.481203,Apartment,Female,Cash,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+982,42245,829,Saturday,6,0.7,0.794444444,3,14.65,20.4778157,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+983,42239,823,Sunday,1,2.6,0.79375,3,32.98,9.0964221,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+984,42252,905,Saturday,9,0.9,0.79375,4,15.72,25.4452926,House,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+985,42293,1016,Friday,3,2.2,0.79375,4,17.18,23.2828871,House,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+986,42308,1031,Saturday,1,2.3,0.79375,4.82,18.18,26.5126513,House,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Oct
+987,42204,719,Sunday,6,2.6,0.793055556,3.14,22.86,13.735783,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+988,42246,830,Sunday,2,3.5,0.793055556,7,31.61,22.1448909,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+989,42251,904,Friday,3,3,0.793055556,8.32,24.68,33.7115073,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Sep
+990,42309,1101,Sunday,1,3.3,0.793055556,2,13.28,15.060241,Apartment,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Nov
+991,42216,731,Friday,6,1.7,0.792361111,2.87,17.12,16.7640187,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Jul
+992,42265,918,Friday,1,2.7,0.792361111,3,42.21,7.1073205,Apartment,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Sep
+993,42210,725,Saturday,9,0.4,0.791666667,5,18.98,26.3435195,Apartment,Male,Cash,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+994,42211,726,Sunday,10,4.7,0.791666667,2,14.1,14.1843972,House,Female,Credit,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Jul
+995,42274,927,Sunday,2,2.5,0.791666667,2,18.24,10.9649123,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+996,42302,1025,Sunday,6,1,0.791666667,5,25.78,19.3948798,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+997,42307,1030,Friday,3,3,0.791666667,10,26.2,38.1679389,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+998,42295,1018,Sunday,6,1.2,0.790972222,6.21,21.79,28.4993116,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+999,42196,711,Saturday,6,3.3,0.790277778,0.56,15.44,3.626943,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+1000,42258,911,Friday,6,1,0.790277778,5.51,14.49,38.026225,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1001,42266,919,Saturday,10,3.2,0.790277778,5,16.6,30.1204819,House,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+1002,42274,927,Sunday,2,2.2,0.790277778,5,42.28,11.8259224,House,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1003,42294,1017,Saturday,1,3,0.790277778,0,10.95,0,House,Female,-,Credit,Sammie,North End,43.633105,-116.208304,Oct
+1004,42302,1025,Sunday,10,4.4,0.790277778,6.1,18.9,32.2751323,House,Male,Cash,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+1005,42295,1018,Sunday,2,2.9,0.789583333,7,23.14,30.2506482,Business,Male,Cash,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1006,42213,728,Tuesday,3,2.5,0.788888889,5.08,12.92,39.3188854,Business,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Jul
+1007,42232,816,Sunday,3,2.1,0.788888889,6.37,49.63,12.8349788,House,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+1008,42244,828,Friday,9,0.0751894,0.788888889,4.28,15.72,27.2264631,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+1009,42287,1010,Saturday,10,3.8,0.788888889,2,12.87,15.5400155,Apartment,Female,Cash,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+1010,42294,1017,Saturday,1,3.3,0.788888889,4,17.84,22.4215247,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+1011,42296,1019,Monday,1,3.4,0.788888889,1.12,13.88,8.0691643,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+1012,42302,1025,Sunday,5,0.9,0.788888889,3,15.72,19.0839695,House,Female,Cash,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Oct
+1013,42223,807,Friday,2,2.3,0.788194444,2,37.12,5.387931,Apartment,Female,Cash,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1014,42258,911,Friday,3,2.9,0.788194444,3,22.08,13.5869565,Apartment,Male,Cash,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+1015,42275,928,Monday,2,2.3,0.788194444,2,20.37,9.8183603,House,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1016,42287,1010,Saturday,9,0.4,0.788194444,3.22,16.78,19.1895113,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+1017,42233,817,Monday,10,3.4,0.7875,5,38.74,12.9065565,Apartment,Female,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+1018,42296,1019,Monday,1,3.3,0.7875,2,10.92,18.3150183,Apartment,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+1019,42213,728,Tuesday,7,3.6,0.786805556,3,23.34,12.8534704,House,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Jul
+1020,42216,731,Friday,6,1.7,0.786805556,2,23.83,8.3927822,House,Male,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Jul
+1021,42294,1017,Saturday,8,7.5,0.786805556,4,20.68,19.3423598,House,Male,Credit,Credit,Angel,Hidden Springs,43.723879,-116.255046,Oct
+1022,42211,726,Sunday,6,1.9,0.786111111,3,33.95,8.8365243,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+1023,42233,817,Monday,5,0.6,0.786111111,3.55,16.45,21.5805471,Business,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+1024,42260,913,Sunday,7,3,0.786111111,3,25.34,11.8389897,House,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+1025,42303,1026,Monday,2,3.4,0.786111111,3,18.36,16.3398693,Business,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1026,42295,1018,Sunday,9,0.5,0.785416667,2,22.16,9.0252708,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+1027,42204,719,Sunday,1,3.1,0.784722222,7,23.18,30.1984469,House,Male,Cash,Credit,Angel,North End,43.633105,-116.208304,Jul
+1028,42268,921,Monday,1,3.7,0.784722222,2,12.53,15.9616919,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+1029,42228,812,Wednesday,5,0.2,0.784027778,2,10.92,18.3150183,Business,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+1030,42230,814,Friday,6,2.2,0.784027778,3,19.25,15.5844156,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1031,42245,829,Saturday,6,1.2,0.784027778,6,21,28.5714286,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1032,42246,830,Sunday,6,0.9,0.784027778,2,11.48,17.4216028,House,Male,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1033,42253,906,Sunday,4,4.3,0.784027778,2,39.83,5.0213407,House,Female,Cash,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Sep
+1034,42265,918,Friday,9,1.1,0.784027778,0,0,0,House,Male,-,-,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+1035,42275,928,Monday,6,0.8,0.784027778,3.78,21.22,17.8133836,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1036,42239,823,Sunday,1,4.1,0.783333333,2,14.65,13.6518771,Apartment,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+1037,42246,830,Sunday,1,3.1,0.783333333,3,15.71,19.0961171,Apartment,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+1038,42246,830,Sunday,6,0.9,0.783333333,5,30.8,16.2337662,House,Female,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1039,42252,905,Saturday,3,2,0.783333333,1.49,19.51,7.6371092,Apartment,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Sep
+1040,42272,925,Friday,6,1.2,0.782638889,17.65,27.35,64.5338208,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1041,42288,1011,Sunday,6,1.8,0.782638889,1.11,9.89,11.223458,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1042,42217,801,Saturday,6,0.2,0.781944444,3,26.02,11.5295926,Apartment,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1043,42247,831,Monday,6,1.1,0.781944444,3,15.27,19.6463654,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1044,42265,918,Friday,6,2.2,0.781944444,3,11.48,26.1324042,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1045,42301,1024,Saturday,2,1.4,0.781944444,1.35,14.65,9.2150171,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1046,42231,815,Saturday,4,4.6,0.78125,12,29.3,40.9556314,House,Male,Cash,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+1047,42238,822,Saturday,1,2.4,0.78125,2.71,17.29,15.6737999,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Aug
+1048,42272,925,Friday,2,3.7,0.78125,1.17,8.83,13.2502831,Business,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1049,42293,1016,Friday,3,2.6,0.78125,6,31.6,18.9873418,Apartment,Female,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+1050,42293,1016,Friday,3,2.7,0.78125,5,21,23.8095238,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+1051,42302,1025,Sunday,6,1.1,0.78125,4,22.42,17.8412132,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1052,42225,809,Sunday,3,2.5,0.780555556,7.23,20.37,35.4933726,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+1053,42259,912,Saturday,7,3,0.780555556,2,13.28,15.060241,Apartment,Female,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+1054,42273,926,Saturday,1,2.5,0.780555556,5,60.6,8.2508251,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+1055,42286,1009,Friday,4,5.4,0.780555556,5,26.31,19.0041809,House,Male,Cash,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+1056,42251,904,Friday,4,1.8,0.779861111,2.88,10.12,28.458498,House,Female,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Sep
+1057,42287,1010,Saturday,4,3,0.779861111,5,35.85,13.9470014,House,Female,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+1058,42295,1018,Sunday,6,1.1,0.779861111,3,25.78,11.6369279,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1059,42245,829,Saturday,5,1.9,0.779166667,3,16.78,17.8784267,Apartment,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+1060,42266,919,Saturday,9,1.7,0.779166667,4,21,19.047619,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+1061,42281,1004,Sunday,2,2.3,0.779166667,5.12,14.88,34.4086022,House,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1062,42308,1031,Saturday,3,3.2,0.779166667,5,21.7,23.0414747,Hotel,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+1063,42218,802,Sunday,5,1.5,0.778472222,4.23,16.77,25.2236136,House,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+1064,42218,802,Sunday,5,1.5,0.778472222,4.23,16.77,25.2236136,House,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+1065,42286,1009,Friday,3,2.2,0.778472222,0.3,33.7,0.8902077,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+1066,42286,1009,Friday,3,2.2,0.778472222,5,24.54,20.3748981,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Oct
+1067,42197,712,Sunday,6,1,0.777777778,2,11.86,16.8634064,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+1068,42245,829,Saturday,1,2.5,0.777777778,3,17.84,16.8161435,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+1069,42245,829,Saturday,4,1.7,0.777777778,3.5,21.5,16.2790698,House,Male,Cash,Cash,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+1070,42253,906,Sunday,8,8.1,0.777777778,8,52.97,15.1028884,House,Male,Credit,Credit,Angel,Hidden Springs,43.723879,-116.255046,Sep
+1071,42274,927,Sunday,5,1.3,0.777777778,5,18.37,27.2182907,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+1072,42288,1011,Sunday,2,2.5,0.777777778,2.16,17.84,12.1076233,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1073,42293,1016,Friday,3,2.2,0.777777778,2,21.53,9.2893637,House,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+1074,42224,808,Saturday,6,1,0.777083333,5,26,19.2307692,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1075,42274,927,Sunday,5,0.6,0.777083333,3,17.84,16.8161435,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+1076,42286,1009,Friday,6,0.9,0.777083333,0,26.3,0,Apartment,Male,-,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1077,42210,725,Saturday,6,1.9,0.776388889,4,24.67,16.2140251,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Jul
+1078,42235,819,Wednesday,7,2.9,0.776388889,0,0,0,House,Female,-,-,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Aug
+1079,42307,1030,Friday,6,2.3,0.776388889,3.12,14.88,20.9677419,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1080,42309,1101,Sunday,3,2.1,0.776388889,2,12.54,15.9489633,Apartment,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Nov
+1081,42244,828,Friday,6,2.6,0.775694444,3,14.66,20.4638472,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1082,42281,1004,Sunday,2,2.3,0.775694444,2,20.37,9.8183603,House,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1083,42247,831,Monday,5,1,0.775,2.36,14.64,16.1202186,House,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+1084,42253,906,Sunday,6,0.3,0.775,3.52,11.48,30.6620209,Apartment,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1085,42288,1011,Sunday,9,2.5,0.775,5.22,16.78,31.1084625,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+1086,42272,925,Friday,5,1.2,0.774305556,4.03,20.97,19.2179304,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+1087,42274,927,Sunday,10,3,0.774305556,2.35,14.65,16.0409556,House,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+1088,42294,1017,Saturday,1,2.6,0.774305556,2,14.35,13.9372822,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+1089,42218,802,Sunday,3,2,0.773611111,2.35,14.65,16.0409556,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+1090,42218,802,Sunday,3,2,0.773611111,2.35,14.65,16.0409556,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+1091,42246,830,Sunday,3,2.2,0.773611111,2,14.65,13.6518771,House,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+1092,42274,927,Sunday,1,2.5,0.772916667,4,18.24,21.9298246,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+1093,42288,1011,Sunday,1,3.1,0.772916667,3.14,11.86,26.4755481,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+1094,42300,1023,Friday,9,0.3,0.772916667,2,15.37,13.0123617,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+1095,42303,1026,Monday,5,1.5,0.772916667,2,14.65,13.6518771,House,Female,Cash,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+1096,42261,914,Monday,6,0.2,0.772222222,16.6,32.67,50.8111417,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1097,42273,926,Saturday,9,0.4,0.772222222,3,23.13,12.9701686,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+1098,42301,1024,Saturday,5,0.9,0.772222222,2,30.02,6.6622252,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Oct
+1099,42233,817,Monday,6,1.7,0.771527778,4,28.67,13.9518661,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1100,42258,911,Friday,3,1.9,0.771527778,2,27.1,7.3800738,Apartment,Male,Cash,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+1101,42266,919,Saturday,2,2.5,0.771527778,1,16.09,6.2150404,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1102,42302,1025,Sunday,6,0.9,0.771527778,5,30.19,16.5617754,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1103,42309,1101,Sunday,3,3.5,0.771527778,0.35,14.65,2.3890785,Hotel,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Nov
+1104,42209,724,Friday,1,2.5,0.770833333,5.02,25.23,19.8969481,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Jul
+1105,42236,820,Thursday,8,7.6,0.770833333,6,46.4,12.9310345,House,Female,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Aug
+1106,42238,822,Saturday,6,1.6,0.770833333,5,20.21,24.7402276,Apartment,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1107,42259,912,Saturday,6,1.4,0.770833333,2,23.86,8.3822297,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1108,42261,914,Monday,1,2.5,0.770833333,4,32.67,12.2436486,House,Female,Cash,Credit,Sammie,North End,43.633105,-116.208304,Sep
+1109,42265,918,Friday,1,1.9,0.770833333,3.69,19.31,19.1092698,House,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Sep
+1110,42213,728,Tuesday,3,2.5,0.770138889,3,21.48,13.9664804,House,Male,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Jul
+1111,42228,812,Wednesday,2,2,0.770138889,2,42.59,4.695938,House,Female,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1112,42239,823,Sunday,10,3.7,0.770138889,8.05,31.95,25.1956182,House,Male,Cash,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+1113,42239,823,Sunday,6,1.1,0.770138889,3.35,14.65,22.8668942,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1114,42252,905,Saturday,6,1.1,0.770138889,1.67,23.33,7.1581655,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1115,42282,1005,Monday,1,3,0.770138889,3.47,21.53,16.117046,Apartment,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+1116,42288,1011,Sunday,4,2.8,0.770138889,5,28.43,17.5870559,House,Female,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+1117,42216,731,Friday,4,3.4,0.769444444,5,26.01,19.2233756,House,Male,Cash,Cash,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Jul
+1118,42260,913,Sunday,5,0.9,0.769444444,2,12.42,16.1030596,House,Male,Cash,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+1119,42279,1002,Friday,10,4.3,0.769444444,4,20.83,19.2030725,House,Male,Credit,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+1120,42300,1023,Friday,7,3,0.769444444,3.31,11.69,28.314799,Apartment,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+1121,42309,1101,Sunday,6,0.3,0.769444444,2.06,14.94,13.7884873,Apartment,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Nov
+1122,42203,718,Saturday,9,7.7,0.76875,6,18.88,31.779661,House,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+1123,42247,831,Monday,6,1.8,0.76875,2.75,14.65,18.7713311,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1124,42254,907,Monday,1,3.3,0.76875,2,23.14,8.6430424,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+1125,42260,913,Sunday,6,0.9,0.76875,2,14.65,13.6518771,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1126,42281,1004,Sunday,5,1.1,0.76875,3,36.47,8.2259391,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+1127,42231,815,Saturday,3,2.1,0.768055556,2.49,17.51,14.2204455,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Aug
+1128,42204,719,Sunday,1,3.6,0.767361111,4.81,35.19,13.6686559,House,Female,Cash,Cash,Angel,North End,43.633105,-116.208304,Jul
+1129,42228,812,Wednesday,3,2.3,0.767361111,3.22,16.78,19.1895113,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+1130,42266,919,Saturday,2,2.5,0.767361111,2,22.25,8.988764,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1131,42273,926,Saturday,9,1.1,0.767361111,3.56,15.44,23.0569948,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+1132,42289,1012,Monday,7,3.6,0.767361111,2.25,19.75,11.3924051,House,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+1133,42254,907,Monday,7,3.5,0.766666667,5,18.9,26.4550265,House,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+1134,42267,920,Sunday,3,3.1,0.766666667,2,19.78,10.1112235,House,Female,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Sep
+1135,42197,712,Sunday,6,0.8,0.765972222,2.25,17.32,12.9907621,Apartment,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Jul
+1136,42206,721,Tuesday,3,2.7,0.765972222,2,18.9,10.5820106,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Jul
+1137,42240,824,Monday,1,2.4,0.765972222,3,25.47,11.778563,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+1138,42251,904,Friday,3,2.7,0.765972222,4,23.67,16.8990283,Apartment,Female,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+1139,42307,1030,Friday,4,1.6,0.765972222,2.5,28.31,8.8308018,House,Female,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+1140,42233,817,Monday,5,1.3,0.765277778,3.29,17.71,18.5770751,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+1141,42240,824,Monday,10,3.3,0.765277778,3.5,18.99,18.430753,Apartment,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+1142,42267,920,Sunday,3,2,0.765277778,2,17.84,11.2107623,House,Female,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Sep
+1143,42268,921,Monday,6,1.6,0.765277778,6.05,36.95,16.3734777,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1144,42293,1016,Friday,5,1.5,0.765277778,2,18.84,10.6157113,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Oct
+1145,42197,712,Sunday,7,3.1,0.764583333,2.94,22.06,13.3272892,House,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Jul
+1146,42224,808,Saturday,6,1.1,0.764583333,3.14,11.86,26.4755481,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1147,42232,816,Sunday,2,2.3,0.764583333,2,20.37,9.8183603,House,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1148,42246,830,Sunday,4,2.6,0.764583333,3,30.01,9.9966678,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+1149,42265,918,Friday,3,2.1,0.764583333,0,29.95,0,Apartment,Male,-,Credit,Angel,Garden City,43.633857,-116.24628,Sep
+1150,42287,1010,Saturday,7,3.5,0.764583333,3,21,14.2857143,House,Female,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Oct
+1151,42294,1017,Saturday,7,2.4,0.764583333,2,39.78,5.0276521,House,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+1152,42295,1018,Sunday,2,2.4,0.764583333,4.56,15.44,29.5336788,House,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1153,42244,828,Friday,10,3.3,0.763888889,6,24.94,24.0577386,Apartment,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+1154,42272,925,Friday,6,2.2,0.763888889,0,42.45,0,Business,Female,-,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1155,42287,1010,Saturday,2,2.4,0.763888889,3.16,26.44,11.9515885,Apartment,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1156,42251,904,Friday,5,0.7,0.763194444,3.19,28.81,11.0725443,House,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+1157,42274,927,Sunday,6,2.2,0.763194444,4.69,18.31,25.6144184,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1158,42296,1019,Monday,4,1.6,0.763194444,3,21,14.2857143,House,Male,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+1159,42196,711,Saturday,5,3,0.7625,0,13.88,0,Apartment,Female,-,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+1160,42213,728,Tuesday,3,3,0.7625,2,16.5,12.1212121,House,Male,Cash,Credit,Sammie,Garden City,43.633857,-116.24628,Jul
+1161,42218,802,Sunday,5,1.6,0.7625,3,24.69,12.1506683,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+1162,42232,816,Sunday,2,3.5,0.7625,2,23.9,8.3682008,Apartment,Male,Cash,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1163,42287,1010,Saturday,1,3.4,0.7625,2,15.71,12.7307447,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+1164,42287,1010,Saturday,7,3.1,0.7625,0,15.71,0,House,Female,-,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Oct
+1165,42295,1018,Sunday,3,3.2,0.7625,4.4,22.6,19.4690265,Hotel,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+1166,42295,1018,Sunday,3,2.1,0.7625,2.21,21.79,10.1422671,Apartment,Female,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+1167,42308,1031,Saturday,2,2.5,0.7625,0.14,11.86,1.1804384,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1168,42213,728,Tuesday,4,2.3,0.761805556,5,55.43,9.0203861,House,Female,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Jul
+1169,42213,728,Tuesday,3,3,0.761805556,5,22.24,22.4820144,House,Female,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Jul
+1170,42225,809,Sunday,3,3.5,0.761805556,4.79,34.21,14.0017539,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+1171,42230,814,Friday,1,2.5,0.761805556,3,19.5,15.3846154,House,Female,Cash,Credit,Sammie,North End,43.633105,-116.208304,Aug
+1172,42267,920,Sunday,9,1.3,0.761805556,5,29.64,16.8690958,House,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+1173,42272,925,Friday,6,2.6,0.761805556,5,35.2,14.2045455,House,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1174,42233,817,Monday,2,2.3,0.761111111,3,25.98,11.5473441,House,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1175,42272,925,Friday,6,2.5,0.761111111,5,37.52,13.326226,House,Male,Cash,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1176,42286,1009,Friday,1,3.7,0.760416667,2.7,14.3,18.8811189,House,Female,Cash,Cash,Sammie,North End,43.633105,-116.208304,Oct
+1177,42246,830,Sunday,6,2.3,0.759027778,0,13.97,0,Apartment,Male,-,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1178,42253,906,Sunday,7,2.6,0.759027778,4,15.44,25.9067358,Apartment,Male,Credit,Credit,Sammie,West of Gary/Glennwood,43.672328,-116.286124,Sep
+1179,42300,1023,Friday,6,1.4,0.759027778,3,19.68,15.2439024,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1180,42223,807,Friday,6,2.1,0.758333333,3,34.57,8.6780445,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1181,42239,823,Sunday,6,1.2,0.758333333,4,16.07,24.8911014,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1182,42258,911,Friday,5,1.2,0.758333333,5,26.8,18.6567164,House,Male,Cash,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+1183,42288,1011,Sunday,4,1.8,0.758333333,2,10.12,19.7628458,House,Female,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+1184,42261,914,Monday,5,0.9,0.757638889,2,17.18,11.6414435,Apartment,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+1185,42300,1023,Friday,6,1.1,0.757638889,2.73,15.27,17.8781925,House,Female,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1186,42235,819,Wednesday,3,3.2,0.756944444,5.52,29.48,18.724559,Apartment,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+1187,42245,829,Saturday,7,3.1,0.756944444,3,31.21,9.6123037,House,Male,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+1188,42273,926,Saturday,5,0.4,0.756944444,4,36.9,10.8401084,House,Male,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+1189,42289,1012,Monday,3,2.5,0.756944444,2,14.65,13.6518771,House,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+1190,42259,912,Saturday,10,3.4,0.755555556,2,15.44,12.9533679,Apartment,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+1191,42261,914,Monday,2,2.6,0.755555556,0,0,0,Apartment,Female,-,-,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1192,42274,927,Sunday,6,0.7,0.755555556,4.54,17.46,26.002291,Apartment,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1193,42274,927,Sunday,2,2.5,0.755555556,3.36,19.64,17.107943,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1194,42287,1010,Saturday,6,1.3,0.755555556,2,27.69,7.2228241,House,Female,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1195,42209,724,Friday,1,2.7,0.754861111,2.03,30.97,6.5547304,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Jul
+1196,42240,824,Monday,6,0.9,0.754861111,4,11.86,33.7268128,House,Male,Cash,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1197,42265,918,Friday,4,2.1,0.754166667,5,27.44,18.2215743,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Sep
+1198,42303,1026,Monday,3,2.9,0.754166667,3.56,28.44,12.5175809,Hotel,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+1199,42236,820,Thursday,1,3.1,0.753472222,5,14.65,34.1296928,Apartment,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+1200,42238,822,Saturday,2,2.3,0.753472222,0.35,14.65,2.3890785,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1201,42266,919,Saturday,10,3.8,0.753472222,10,20.02,49.95005,House,Male,Credit,Credit,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+1202,42268,921,Monday,2,2.4,0.753472222,4,18.47,21.6567407,House,Male,Cash,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1203,42272,925,Friday,9,0.4,0.753472222,3,13.6,22.0588235,Apartment,Female,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+1204,42281,1004,Sunday,6,1.7,0.753472222,4,19.6,20.4081633,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1205,42301,1024,Saturday,5,1.4,0.753472222,3.76,16.24,23.1527094,House,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Oct
+1206,42272,925,Friday,3,2.3,0.752777778,1.3,18.7,6.9518717,Apartment,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Sep
+1207,42282,1005,Monday,2,2.6,0.752777778,2.12,18.88,11.2288136,Apartment,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1208,42230,814,Friday,9,0.3,0.752083333,0,15.27,0,Apartment,Male,-,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+1209,42233,817,Monday,2,3,0.752083333,1,10.12,9.8814229,Apartment,Female,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1210,42289,1012,Monday,9,0.5,0.752083333,1.1,18.9,5.8201058,Apartment,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+1211,42253,906,Sunday,6,1.8,0.751388889,5,27.38,18.2615047,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1212,42267,920,Sunday,2,2.5,0.751388889,4,32.67,12.2436486,Apartment,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1213,42267,920,Sunday,9,1.7,0.751388889,5.69,19.31,29.4665976,Apartment,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+1214,42295,1018,Sunday,2,2.4,0.751388889,3.05,21.95,13.8952164,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1215,42246,830,Sunday,3,2.4,0.750694444,3.69,26.31,14.0250855,House,Male,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+1216,42252,905,Saturday,5,0.7,0.750694444,3.6,32.4,11.1111111,Apartment,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Sep
+1217,42302,1025,Sunday,8,7.4,0.750694444,4,22.42,17.8412132,House,Female,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Oct
+1218,42196,711,Saturday,10,1.6,0.75,4,18.37,21.7746326,House,Male,Cash,Cash,Angel,Bogus Basin - Brumback Hills,43.654203,-116.190788,Jul
+1219,42211,726,Sunday,8,7.9,0.75,6.34,25.66,24.7077163,House,Female,Cash,Cash,Angel,Hidden Springs,43.723879,-116.255046,Jul
+1220,42217,801,Saturday,6,1.6,0.75,3.93,31.07,12.6488574,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1221,42217,801,Saturday,8,7.9,0.75,8,32.64,24.5098039,House,Female,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Aug
+1222,42246,830,Sunday,3,2.8,0.75,5,28.73,17.4034111,Business,Male,Cash,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+1223,42286,1009,Friday,10,4.1,0.75,4,21,19.047619,House,Female,Cash,Cash,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+1224,42294,1017,Saturday,1,3.2,0.75,7,66.08,10.5932203,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Oct
+1225,42197,712,Sunday,7,4,0.749305556,3,47.55,6.3091483,House,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Jul
+1226,42240,824,Monday,7,3.7,0.749305556,6.32,24.68,25.6077796,House,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+1227,42245,829,Saturday,10,3.5,0.749305556,2.97,20.03,14.8277584,House,Female,Cash,Cash,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Aug
+1228,42254,907,Monday,6,1,0.749305556,8,40.05,19.9750312,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1229,42293,1016,Friday,1,3.1,0.749305556,4,21,19.047619,House,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Oct
+1230,42213,728,Tuesday,5,1.4,0.748611111,6,30.1,19.9335548,House,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+1231,42239,823,Sunday,9,1.1,0.748611111,5,24.46,20.4415372,House,Female,Cash,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+1232,42281,1004,Sunday,6,0.3,0.748611111,1,18.88,5.2966102,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1233,42293,1016,Friday,10,4.8,0.748611111,4,35.39,11.3026279,House,Male,Credit,Credit,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Oct
+1234,42204,719,Sunday,7,2.5,0.747916667,0,26.74,0,Apartment,Male,-,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Jul
+1235,42251,904,Friday,6,2.1,0.747916667,5,21,23.8095238,House,Female,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1236,42260,913,Sunday,6,0.4,0.747916667,2,35.53,5.6290459,Apartment,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1237,42286,1009,Friday,5,0.8,0.747916667,5,19.95,25.0626566,House,Male,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Oct
+1238,42287,1010,Saturday,4,2.3,0.747916667,2,16.73,11.9545726,Apartment,Female,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
+1239,42289,1012,Monday,1,2.5,0.747916667,3.04,19.96,15.2304609,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+1240,42247,831,Monday,1,3,0.747222222,2.22,16.78,13.2300358,Apartment,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Aug
+1241,42265,918,Friday,5,1.5,0.747222222,1,26.66,3.7509377,Apartment,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Sep
+1242,42294,1017,Saturday,6,1.7,0.747222222,5,26.38,18.9537528,Apartment,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1243,42307,1030,Friday,1,3.2,0.747222222,4.99,21.01,23.750595,House,Male,Cash,Cash,Sammie,North End,43.633105,-116.208304,Oct
+1244,42213,728,Tuesday,5,1.6,0.746527778,3,16.73,17.9318589,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Jul
+1245,42224,808,Saturday,3,3.5,0.746527778,8,37.32,21.4362272,Apartment,Male,Cash,Credit,Sammie,Garden City,43.633857,-116.24628,Aug
+1246,42275,928,Monday,1,2.6,0.746527778,5,12.54,39.8724083,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Sep
+1247,42247,831,Monday,6,0.8,0.745833333,3,20.49,14.6412884,House,Male,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1248,42266,919,Saturday,8,8.1,0.745833333,4,27.35,14.6252285,House,Female,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+1249,42279,1002,Friday,3,2.3,0.745833333,0.82,24.19,3.3898305,House,Male,Cash,Cash,Angel,Garden City,43.633857,-116.24628,Oct
+1250,42309,1101,Sunday,5,1,0.745833333,5,48.56,10.2965404,House,Male,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Nov
+1251,42218,802,Sunday,6,1.2,0.745138889,3,26.6,11.2781955,Apartment,Female,Credit,Credit,Angel,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1252,42206,721,Tuesday,8,8.2,0.744444444,5,23.36,21.4041096,House,Female,Credit,Credit,Angel,Hidden Springs,43.723879,-116.255046,Jul
+1253,42239,823,Sunday,2,2.7,0.744444444,5,23.67,21.1237854,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1254,42295,1018,Sunday,3,3.1,0.744444444,2,19.21,10.4112441,House,Female,Credit,Credit,Angel,Garden City,43.633857,-116.24628,Oct
+1255,42309,1101,Sunday,3,2.5,0.744444444,4,28.42,14.0745954,House,Male,Credit,Credit,Sammie,Garden City,43.633857,-116.24628,Nov
+1256,42236,820,Thursday,9,1.1,0.74375,2,21.41,9.3414292,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+1257,42308,1031,Saturday,3,2.1,0.74375,0,17.46,0,Apartment,Female,-,Cash,Sammie,Garden City,43.633857,-116.24628,Oct
+1258,42233,817,Monday,1,2.9,0.743055556,3,18.88,15.8898305,House,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+1259,42238,822,Saturday,5,1.3,0.743055556,8,31.43,25.4533885,House,Female,Credit,Credit,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+1260,42239,823,Sunday,2,2.3,0.743055556,4.33,25.67,16.8679392,House,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1261,42296,1019,Monday,2,2.1,0.743055556,4,30.42,13.1492439,Apartment,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Oct
+1262,42273,926,Saturday,1,3.8,0.742361111,2,12.62,15.8478605,House,Female,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+1263,42287,1010,Saturday,9,0.4,0.742361111,5,24.8,20.1612903,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Oct
+1264,42204,719,Sunday,5,1,0.741666667,3.52,16.48,21.3592233,House,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+1265,42209,724,Friday,5,0.9,0.741666667,2.82,17.18,16.4144354,House,Female,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Jul
+1266,42218,802,Sunday,3,3.3,0.741666667,3.65,14.35,25.4355401,House,Female,Cash,Cash,Sammie,Garden City,43.633857,-116.24628,Aug
+1267,42223,807,Friday,2,1.7,0.741666667,4,14.65,27.3037543,House,Male,Credit,Credit,Sammie,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1268,42233,817,Monday,6,1.9,0.741666667,10.86,23.14,46.93172,House,Male,Cash,Cash,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Aug
+1269,42240,824,Monday,5,1.9,0.741666667,2,15.18,13.1752306,House,Female,Credit,Credit,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+1270,42246,830,Sunday,3,2.1,0.741666667,0,14.65,0,Apartment,Male,-,Credit,Angel,Garden City,43.633857,-116.24628,Aug
+1271,42246,830,Sunday,9,0.5,0.741666667,2,16.77,11.9260584,Apartment,Male,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+1272,42274,927,Sunday,6,1.3,0.741666667,5.32,31.62,16.8247944,Apartment,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1273,42294,1017,Saturday,6,1.6,0.741666667,5.48,27.52,19.9127907,House,Male,Cash,Cash,Angel,Collister - Gary (North of State),43.666573,-116.263356,Oct
+1274,42300,1023,Friday,1,2.1,0.740972222,4.65,38.35,12.125163,House,Male,Cash,Cash,Angel,North End,43.633105,-116.208304,Oct
+1275,42203,718,Saturday,2,2.1,0.740277778,5,26.82,18.6428039,House,Male,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Jul
+1276,42231,815,Saturday,7,2.6,0.740277778,2,16.77,11.9260584,House,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Aug
+1277,42231,815,Saturday,1,3.7,0.740277778,3,15.87,18.9035917,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+1278,42235,819,Wednesday,1,2.2,0.740277778,2,14.65,13.6518771,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Aug
+1279,42273,926,Saturday,9,0.7,0.740277778,5.92,31.08,19.047619,House,Male,Cash,Cash,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+1280,42273,926,Saturday,1,3.7,0.740277778,3,16.48,18.2038835,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+1281,42232,816,Sunday,1,2.5,0.739583333,4,17.71,22.5861095,House,Male,Credit,Credit,Angel,North End,43.633105,-116.208304,Aug
+1282,42252,905,Saturday,6,1.6,0.739583333,10,55.42,18.0440274,House,Male,Credit,Credit,Sammie,Collister - Gary (North of State),43.666573,-116.263356,Sep
+1283,42253,906,Sunday,9,0.0765152,0.739583333,0,16.24,0,Apartment,Male,-,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Sep
+1284,42286,1009,Friday,8,7.6,0.739583333,7,21.93,31.9197446,House,Male,Credit,Credit,Angel,Hidden Springs,43.723879,-116.255046,Oct
+1285,42293,1016,Friday,1,3.3,0.739583333,1,17.84,5.6053812,Apartment,Female,Credit,Credit,Angel,North End,43.633105,-116.208304,Oct
+1286,42294,1017,Saturday,7,2.4,0.739583333,7,27.35,25.5941499,House,Female,Credit,Credit,Angel,West of Gary/Glennwood,43.672328,-116.286124,Oct
+1287,42230,814,Friday,9,0.9,0.738888889,7.71,27.29,28.252107,Apartment,Male,Cash,Cash,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+1288,42253,906,Sunday,1,2.5,0.738888889,3,23.07,13.0039012,House,Male,Credit,Credit,Sammie,North End,43.633105,-116.208304,Sep
+1289,42266,919,Saturday,2,2.5,0.738888889,3,32.67,9.1827365,Apartment,Female,Credit,Credit,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1290,42267,920,Sunday,10,3.6,0.738888889,2.16,17.84,12.1076233,House,Female,Cash,Cash,Sammie,Bogus Basin - Brumback Hills,43.654203,-116.190788,Sep
+1291,42228,812,Wednesday,4,1.9,0.738194444,4,26.29,15.2149106,House,Male,Credit,Credit,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+1292,42240,824,Monday,2,1.5,0.738194444,7.41,22.59,32.8021248,House,Male,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Aug
+1293,42258,911,Friday,8,7.6,0.738194444,5,22.6,22.1238938,House,Female,Credit,Credit,Sammie,Hidden Springs,43.723879,-116.255046,Sep
+1294,42225,809,Sunday,4,2.8,0.7375,3.95,14.65,26.9624573,House,Female,Cash,Cash,Sammie,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Aug
+1295,42228,812,Wednesday,5,0.9,0.7375,2.05,13.95,14.6953405,House,Female,Cash,Cash,Sammie,28th - Collister (North of State),43.648076,-116.23413,Aug
+1296,42239,823,Sunday,9,0.7,0.7375,5,19.26,25.96054,Apartment,Male,Credit,Credit,Angel,WhiteWater - Gary (South of State),43.652722,-116.259743,Aug
+1297,42253,906,Sunday,2,3.1,0.7375,0.64,11.36,5.6338028,Hotel,Female,Cash,Cash,Angel,WhiteWater - Downtown (South of State),43.624462,-116.21835,Sep
+1298,42267,920,Sunday,7,2.5,0.7375,3,18.74,16.0085379,Apartment,Female,Cash,Cash,Angel,West of Gary/Glennwood,43.672328,-116.286124,Sep
+1299,42216,731,Friday,9,2.5,0.736805556,6.47,23.53,27.4968126,Apartment,Female,Credit,Credit,Sammie,WhiteWater - Gary (South of State),43.652722,-116.259743,Jul
+1300,42218,802,Sunday,5,2.5,0.736805556,1.12,13.88,8.0691643,House,Male,Cash,Cash,Angel,28th - Collister (North of State),43.648076,-116.23413,Aug
+1301,42281,1004,Sunday,4,1.8,0.736805556,3,28.44,10.5485232,House,Male,Credit,Credit,Angel,Bogus Basin - Gary (North of Hill),43.659428,-116.231891,Oct
