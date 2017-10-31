@@ -1,8 +1,8 @@
 '''
 Created on Jan 27, 2017
 @author: angelddaz
-This is a test of many random samples to see how many statistical T-tests as to if
-Samantha's and my tips prove to be statistically different. 
+These are statistical T-tests of many random samples to see if
+Samantha's and my tips are statistically different. 
 '''
 import pandas as pd
 import math
