@@ -9,7 +9,7 @@ import math
 import scipy.stats as stats
 
 #Change the following line/path depending on which machine you're working on
-path = r'C:\Users\Angel\OneDrive\Documents\data_training\data\RawDelData.csv'
+path <- read.csv(url('https://raw.githubusercontent.com/angelddaz/bridgetomasters/master/CSVs/RawDelData.csv'))
 data = pd.read_csv(path)
 df = pd.DataFrame(data, columns = ['Tip', 'PersonWhoDelivered'])
 
